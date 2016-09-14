@@ -41,7 +41,7 @@ Snipaste version: x.x
 ---
 
 请先浏览：
-[故障排除](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) | [基础操作](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C) | [新版预告](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%96%B0%E7%89%88%E9%A2%84%E5%91%8A)
+[故障排除](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) | [基础操作](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C)
 
 * 用关键词搜索已有的 issues，看是否已经有人提过。
 * BUG 和新功能请求不要在同一个 issue 里描述，请分开发 issues，多个 BUG 或新功能也请分开来发。
