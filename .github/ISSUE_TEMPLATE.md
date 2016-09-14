@@ -6,6 +6,7 @@ Read first:
 
 * Please search the existing issues (open/closed) before you submit one.
 * If you have found multiple bugs or have multiple feature requests, please submit separate issues for them.
+* After the problem in your issue is resolved, please close the issue.
 
 ### Describe your problem
 
@@ -44,6 +45,7 @@ Snipaste version: x.x
 
 * 用关键词搜索已有的 issues，看是否已经有人提过。
 * BUG 和新功能请求不要在同一个 issue 里描述，请分开发 issues，多个 BUG 或新功能也请分开来发。
+* **issue 描述的问题得到解决后，请主动关闭 issue.**
 
 **（以下是开发者建议的描述模版，请根据你的情况自行增删）**
 
