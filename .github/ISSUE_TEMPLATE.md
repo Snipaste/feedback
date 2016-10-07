@@ -1,12 +1,13 @@
 Click 'Preview' ☝
 先点 'Preview' ☝
 
-Read first:
+---
+
+READ FIRST:
 [Problemshooting](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) | [Getting Started](https://github.com/liulex/Snipaste-Feedback/wiki/Getting-Started)
 
 * Please search the existing issues (open/closed) before you submit one.
 * If you have found multiple bugs or have multiple feature requests, please submit separate issues for them.
-* After the problem in your issue is resolved, please close the issue.
 
 ### Describe your problem
 
@@ -40,14 +41,13 @@ Snipaste version: x.x
 
 ---
 
-请先浏览：
+**请先浏览**：
 [故障排除](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) | [基础操作](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C)
 
 * 用关键词搜索已有的 issues，看是否已经有人提过。
-* BUG 和新功能请求不要在同一个 issue 里描述，请分开发 issues，多个 BUG 或新功能也请分开来发。
-* **issue 描述的问题得到解决后，请主动关闭 issue.**
+* BUG 和新功能请求不要在同一个 issue 里描述，请分开发 issues，多个 BUG 或新功能也请分开发。
 
-**（以下是开发者建议的描述模版，请根据你的情况自行增删）**
+**（以下是为描述模版，请根据你的情况自行增删）**
 
 ### 问题描述/建议描述
 
