@@ -28,7 +28,7 @@ Perform a function of Snipaste using the command line. Let Snipaste work togethe
 
 Yes, there are some hidden settings not exposed in the Preferences Dialog.
 
-## [Troubleshooting](/Ttroubleshooting)
+## [Troubleshooting](/troubleshooting)
 
 Snipaste is not running as expected? You probably can find a solution here. If not, file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
 
