@@ -1,9 +1,4 @@
-# [Snipaste](https://snipaste.com)
-
-[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-80c342.svg)](/#)
-[![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64)
-[![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86)
-[![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
+# [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v1.10.3-2016.12.01-80c342.svg)](https://github.com/liulex/Snipaste-Feedback#snipaste) [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
 [Documentation](https://docs.snipaste.com) | [用户手册](https://docs.snipaste.com/zh-cn)
 
