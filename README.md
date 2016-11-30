@@ -1,8 +1,11 @@
-# [Snipaste](https://snipaste.com) [![issues](https://img.shields.io/github/issues/liulex/Snipaste-Feedback.svg)](https://github.com/liulex/Snipaste-Feedback/issues)
+# [Snipaste](https://snipaste.com)
 
-[Download](https://snipaste.com/download.html) | [Troubleshooting](https://github.com/liulex/Snipaste-Feedback/wiki/Troubleshooting)  | [Getting Started](https://github.com/liulex/Snipaste-Feedback/wiki/Getting-Started) | [Wiki](https://github.com/liulex/Snipaste-Feedback/wiki) | [Issues](https://github.com/liulex/Snipaste-Feedback/issues) | [Changelog](https://github.com/liulex/Snipaste-Feedback/wiki/Changelog)
+[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-80c342.svg)](/#)
+[![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64)
+[![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86)
+[![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
-[下载页面](https://zh.snipaste.com/download.html) | [故障排除](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) | [基础操作](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C) | [用户手册](https://github.com/liulex/Snipaste-Feedback/wiki) | [问题反馈](https://github.com/liulex/Snipaste-Feedback/issues) | [更新日志](https://github.com/liulex/Snipaste-Feedback/wiki/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+[Documentation](https://docs.snipaste.com) | [用户手册](https://docs.snipaste.com/zh-cn)
 
 ## :speech_balloon:
 

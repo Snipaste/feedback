@@ -5,7 +5,7 @@
 [![x86](https://img.shields.io/badge/下载-32_位-0078d7.svg)](https://dl.snipaste.com/win-x86-cn)
 [![xp](https://img.shields.io/badge/下载-XP-0078d7.svg)](https://dl.snipaste.com/win-xp-cn)
 
-> Snipaste 也许是一个很好用的截图工具，但它的贴图功能更为强大。
+> Snipaste 或许是一个好用的截图工具，但它的贴图功能更为强大。
 
 > 善用贴图功能将改变您的工作方式、提升工作效率。
 
