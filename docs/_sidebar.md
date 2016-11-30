@@ -1,4 +1,4 @@
-- [Snipaste](/#snipaste)
+- [Snipaste](/)
   - [Download](/#snipaste)
 - [Getting Started](/getting-started)
   - [Snip](/getting-started#snip)

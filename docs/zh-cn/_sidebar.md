@@ -1,4 +1,4 @@
-- [Snipaste](/zh-cn/#snipaste)
+- [Snipaste](/zh-cn)
   - [下载](/zh-cn/#snipaste)
 - [基础操作](/zh-cn/getting-started)
   - [截图](/zh-cn/getting-started#截图)
