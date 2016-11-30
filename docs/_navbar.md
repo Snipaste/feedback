@@ -1,4 +1,4 @@
-- <a href="https://snipaste.com" target="_blank">Website</a>
+- <a href="https://snipaste.com">Website</a>
 - <a>language</a>
   - [En](/)
   - [中文](/zh-cn)

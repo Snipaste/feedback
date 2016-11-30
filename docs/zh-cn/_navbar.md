@@ -1,4 +1,4 @@
-- <a href="https://zh.snipaste.com" target="_blank">官网</a>
+- <a href="https://zh.snipaste.com">官网</a>
 - <a>语言</a>
   - [En](/)
   - [中文](/zh-cn)
