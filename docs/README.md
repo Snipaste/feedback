@@ -10,29 +10,29 @@
 
 > Hopefully it will boost your productivity when you get used to it.
 
-## [Getting Started](/Getting-Started)
+## [Getting Started](/getting-started)
 
 Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Paste`.
 
 Find out what they are capable of.
 
-## [Advanced Tips](/Advanced-Tips)
+## [Advanced Tips](/advanced-tips)
 
 Useful and insteresting tips to make you love Snipaste a bit more.
 
-## [Command Line Options](/Command-Line-Options)
+## [Command Line Options](/command-line-options)
 
 Perform a function of Snipaste using the command line. Let Snipaste work together with your other favorite tools.
 
-## [Advanced Configs](/Advanced-Configs)
+## [Advanced Configs](/advanced-configs)
 
 Yes, there are some hidden settings not exposed in the Preferences Dialog.
 
-## [Troubleshooting](/Troubleshooting)
+## [Troubleshooting](/Ttroubleshooting)
 
 Snipaste is not running as expected? You probably can find a solution here. If not, file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
 
-## [Changelog](/Changelog)
+## [Changelog](/changelog)
 
 See how Snipaste is growing better because of you.
 

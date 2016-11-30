@@ -10,29 +10,29 @@
 > 善用贴图功能将改变您的工作方式、提升工作效率。
 
 
-## [基础操作](/zh-cn/Getting-Started)
+## [基础操作](/zh-cn/getting-started)
 
 Snipaste 有三个主要功能：`截屏`、`标注`和`贴图`。
 
 请了解一下它们分别能做什么。
 
-## [高级技巧](/zh-cn/Advanced-Tips)
+## [高级技巧](/zh-cn/advanced-tips)
 
 一些有用、有趣的使用技巧，带给您更畅快的使用体验。
 
-## [命令行选项](/zh-cn/Command-Line-Options)
+## [命令行选项](/zh-cn/command-line-options)
 
 使用命令行参数来执行 Snipaste 的某项功能，可以方便地配合您喜欢的其他工具软件。
 
-## [高级设置](/zh-cn/Advanced-Configs)
+## [高级设置](/zh-cn/advanced-configs)
 
 一些没有在首选项窗口中列出来的隐藏选项。
 
-## [故障排除](/zh-cn/Troubleshooting)
+## [故障排除](/zh-cn/troubleshooting)
 
 常见的运行 Snipaste 时可能会遇到的错误及其解决方案。
 
-## [更新日志](/zh-cn/Changelog)
+## [更新日志](/zh-cn/changelog)
 
 回顾一下 Snipaste 的成长历程。
 
