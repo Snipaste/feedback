@@ -9,10 +9,10 @@ Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Past
 * Left click on the tray icon
 
 #### What is a _successful snipping_
-* Save to clipboard ( ![](http://ww3.sinaimg.cn/large/006fVPCvjw1f6vjmpa2lfj300g00g0e2.jpg) / <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>Enter</kbd> / <kbd>Double click</kbd> on the snipping area)
-* Save to file ( ![](http://ww4.sinaimg.cn/large/006fVPCvjw1f6vjh5pxeej300g00g0e0.jpg) / <kbd>Ctrl</kbd> + <kbd>S</kbd>)
-* Paste to screen ( ![](http://ww1.sinaimg.cn/large/006fVPCvjw1f6vjm0tf3jj300g00g0e7.jpg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
-* Quick Save (<kbd>Shift</kbd> + ![](http://ww4.sinaimg.cn/large/006fVPCvjw1f6vjh5pxeej300g00g0e0.jpg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
+* Save to clipboard ( ![](https://www.snipaste.com/img/copy16.svg) / <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>Enter</kbd> / <kbd>Double click</kbd> on the snipping area)
+* Save to file ( ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>S</kbd>)
+* Paste to screen ( ![](https://www.snipaste.com/img/pin16.svg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
+* Quick Save (<kbd>Shift</kbd> + ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
 
 #### When will the snipping abort
 * Press <kbd>Esc</kbd> at any moment

@@ -9,10 +9,10 @@ Snipaste 是一个简单但强大的`贴图`工具，同时也可以执行`截�
 * <kbd>鼠标左键</kbd> 单击托盘图标
 
 #### 何谓一次 `成功的截图`
-* 保存到剪贴板 ( ![](http://ww3.sinaimg.cn/large/006fVPCvjw1f6vjmpa2lfj300g00g0e2.jpg) / <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>Enter</kbd> / <kbd>双击</kbd> 截屏区域)
-* 保存到文件 ( ![](http://ww4.sinaimg.cn/large/006fVPCvjw1f6vjh5pxeej300g00g0e0.jpg) / <kbd>Ctrl</kbd> + <kbd>S</kbd>)
-* 保存到贴图 ( ![](http://ww1.sinaimg.cn/large/006fVPCvjw1f6vjm0tf3jj300g00g0e7.jpg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
-* 快速保存 (<kbd>Shift</kbd> + ![](http://ww4.sinaimg.cn/large/006fVPCvjw1f6vjh5pxeej300g00g0e0.jpg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
+* 保存到剪贴板 ( ![](https://www.snipaste.com/img/copy16.svg) / <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>Enter</kbd> / <kbd>双击</kbd> 截屏区域)
+* 保存到文件 ( ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>S</kbd>)
+* 保存到贴图 ( ![](https://www.snipaste.com/img/pin16.svg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
+* 快速保存 (<kbd>Shift</kbd> + ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
 
 #### 什么情况截图会被中断
 * 任何时刻按 <kbd>Esc</kbd>
