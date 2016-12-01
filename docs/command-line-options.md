@@ -26,7 +26,7 @@ In other words, if Snipaste is not running in the background, all the command li
     --snip-last                       Start snipping with the snipping area being the same as
                                       the last successful snipping
     --snip-delay                      Start delayed snipping
-    --snip-delay TIME                 Start snipping after TIME milliseconds
+    --snip-delay TIME                 Start snipping after TIME seconds
 
 # Paste Options
 

@@ -28,7 +28,7 @@ Snipaste 启动之后，再带命令行参数启动 Snipaste，才会执行响�
     --snip-full                       开始截屏，并把选区设定为全屏
     --snip-last                       开始截屏，并把选区设定为上一次成功截屏的区域
     --snip-delay                      开始延时截屏
-    --snip-delay TIME                 TIME 毫秒后开始截屏
+    --snip-delay TIME                 TIME 秒后开始截屏
 
 # 贴图选项
 
