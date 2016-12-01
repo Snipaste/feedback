@@ -4,7 +4,7 @@
 > 2016.12.01
 
 ### 新增：
-* 全新的 [文档网站](https://docs.snipaste.com/zh-cn)
+* 全新的 [用户手册](https://docs.snipaste.com/zh-cn)
   * 使用 <a href="https://docsify.js.org/zh-cn" target="_blank">docsify</a> 生成
 
 ### 修复：

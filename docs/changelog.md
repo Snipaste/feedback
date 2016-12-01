@@ -8,7 +8,7 @@
   * Generated using <a href="https://docsify.js.org" target="_blank">docsify</a>
   
 ### Fixed:
-* When the system setting "Show indow contents while dragging" is not checked, the image windows cannot be moved
+* When the system setting "Show indow contents while dragging" is not enabled, the image windows cannot be moved
 * Cannot copy the text from a pasted file path
 * Hold <kbd>Shift</kbd> and drag the anchor of line shapes has no shifted effect
 * [#253](https://github.com/liulex/Snipaste-Feedback/issues/253)
