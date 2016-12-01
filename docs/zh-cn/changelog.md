@@ -23,9 +23,9 @@
 * 可随时二次编辑文字标注
 * 折线、画笔、马赛克、橡皮擦等形状可以整体拖动
 * <kbd>鼠标左键</kbd>按下 + <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> 可逐像素移动贴图 [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
-* （[命令行选项](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%89%E9%A1%B9)）`--paste-files` 可指定文件夹
-* （[高级设置](https://github.com/liulex/Snipaste-Feedback/wiki/%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE)）exclude_from_detection
-* （[高级设置](https://github.com/liulex/Snipaste-Feedback/wiki/%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE)）crashes
+* [命令行选项](https://docs.snipaste.com/zh-cn/command-line-options)：`--paste-files` 可指定文件夹
+* [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/exclude_from_detection
+* [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/crashes
 
 ### 修复：
 * 程序开机自启后，如手动点检查更新，导致首选项窗口等无响应 [#242](https://github.com/liulex/Snipaste-Feedback/issues/242)
@@ -48,7 +48,7 @@
 > 2016.11.22
 
 ### 新增：
-* 支持 [命令行选项](https://github.com/liulex/Snipaste-Feedback/wiki/%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%89%E9%A1%B9)
+* 支持 [命令行选项](https://docs.snipaste.com/zh-cn/command-line-options)
 * 截屏时，允许在编辑模式调整选区 [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
 * 全部标注形状支持 <kbd>Shift</kbd> 功能
 * “折线“新增直线模式：按住 <kbd>鼠标左键</kbd> 并拖动即可
@@ -179,8 +179,8 @@
 * （选项）自定义输出的图片质量
 * 更新了内置快捷键列表，并增加了“复制”按钮
 * 在贴图上按 Ctrl+Shift+P 唤出选项窗口
-* [[高级设置]]：General/high_process_priority
-* [[高级设置]]：snip/do_not_omit_synthesized_c
+* [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：General/high_process_priority
+* [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/do_not_omit_synthesized_c
 * 日语翻译 (感谢 **鳳凰院カミ**)
 
 ### 修复：
@@ -212,7 +212,7 @@
 
 ### 新增：
 
-* [[高级设置]]：历史记录文件夹位置
+* [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：历史记录文件夹位置
 
 ### 修复：
 

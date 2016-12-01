@@ -5,7 +5,7 @@
   - [Image Edit](/getting-started#image-edit)
   - [Paste](/getting-started#paste)
 - [Advanced Tips](/advanced-tips)
-- [Command Line Options](/Command-Line-Options)
+- [Command Line Options](/command-line-options)
   - [Usage](/command-line-options#usage)
   - [Snip Options](/command-line-options#snip-options)
   - [Paste Options](/command-line-options#paste-options)

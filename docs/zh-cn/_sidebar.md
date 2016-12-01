@@ -5,7 +5,7 @@
   - [标注](/zh-cn/getting-started#标注)
   - [贴图](/zh-cn/getting-started#贴图)
 - [高级技巧](/zh-cn/advanced-tips)
-- [命令行选项](/zh-cn/command-line-options#命令行选项)
+- [命令行选项](/zh-cn/command-line-options)
   - [调用方法](/zh-cn/command-line-options#调用方法)
   - [截图选项](/zh-cn/command-line-options#截图选项)
   - [贴图选项](/zh-cn/command-line-options#贴图选项)
