@@ -23,9 +23,9 @@
 * Easy text re-edit
 * Allow to move shapes as a whole, including line strip / pencil / mosaic / eraser
 * Hold <kbd>Mouse left button</kbd> + <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> to move the image window by pixel [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
-* ([Command Line Options](https://github.com/liulex/Snipaste-Feedback/wiki/Command-Line-Options)) `--paste-files` accepts directories now
-* ([Advanced Configs](https://github.com/liulex/Snipaste-Feedback/wiki/Advanced-Configs)) exclude_from_detection
-* ([Advanced Configs](https://github.com/liulex/Snipaste-Feedback/wiki/Advanced-Configs)) crashes
+* [Command Line Options](https://docs.snipaste.com/command-line-options): `--paste-files` accepts directories now
+* [Advanced Configs](https://docs.snipaste.com/advanced-configs): snip/exclude_from_detection
+* [Advanced Configs](https://docs.snipaste.com/advanced-configs): snip/crashes
 
 ### Fixed:
 * After startup on system boot, a manual update check will cause the Preferences Dialog unresponsive [#242](https://github.com/liulex/Snipaste-Feedback/issues/242)
@@ -47,7 +47,7 @@
 > 2016.11.22
 
 ### New:
-* Support [Command Line Options](https://github.com/liulex/Snipaste-Feedback/wiki/Command-Line-Options)
+* Support [Command Line Options](https://docs.snipaste.com/command-line-options)
 * When snipping, allow to adjust the snipping area when in edit mode [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
 * All edit shapes now support <kbd>Shift</kbd> toggling
 * "Line strip" now has a "Line" mode: click and hold <kbd>Mouse left button</kbd>, then move the mouse to draw a single line
@@ -180,8 +180,8 @@
 * (Option) Customize the output image quality
 * The Internal Hotkeys Dialog is updated and added with a 'Copy' button
 * Press Ctrl+Shift+P on an image window to open the Preferences Dialog
-* [[Advanced configs]]: General/high_process_priority
-* [[Advanced configs]]: snip/do_not_omit_synthesized_c
+* [Advanced Configs](https://docs.snipaste.com/advanced-configs): General/high_process_priority
+* [Advanced Configs](https://docs.snipaste.com/advanced-configs): snip/do_not_omit_synthesized_c
 * Japanese translation (Thanks to **鳳凰院カミ**)
 
 ### Fixed:
@@ -213,7 +213,7 @@
 
 ### New:
 
-* [[Advanced-Configs]]：General/history_dir 
+* [Advanced Configs](https://docs.snipaste.com/advanced-configs): General/history_dir 
 
 ### Fixed:
 
