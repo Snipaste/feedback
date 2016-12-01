@@ -3,9 +3,9 @@
 ## v1.10.3
 > 2016.12.01
 
-### New
+### New:
 * Check out our brand new [documentation site](https://docs.snipaste.com)!
-  * Generated using [docsify](https://docsify.js.org/)
+  * Generated using <a href="https://docsify.js.org" target="_blank">docsify</a>
   
 ### Fixed:
 * When the system setting "Show indow contents while dragging" is not checked, the image windows cannot be moved
