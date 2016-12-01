@@ -6,7 +6,7 @@
 [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
 
-> Snipaste may be good as a snipping tool, but it is even more professional in 'paste'.
+> Snipaste may be good as a snipping tool, but it is even more professional in 'paste'!
 
 > Hopefully it will boost your productivity when you get used to it.
 
@@ -22,7 +22,7 @@ Useful and insteresting tips to make you love Snipaste a bit more.
 
 ## [Command Line Options](/command-line-options)
 
-Perform a function of Snipaste using the command line. Let Snipaste work together with your other favorite tools.
+Execute a function of Snipaste using the command line. Let Snipaste work together with your other favorite tools.
 
 ## [Advanced Configs](/advanced-configs)
 

@@ -3,6 +3,10 @@
 ## v1.10.3
 > 2016.12.01
 
+### New
+* Check out our brand new [documentation site](https://docs.snipaste.com)!
+  * Generated using [docsify](https://docsify.js.org/)
+  
 ### Fixed:
 * When the system setting "Show indow contents while dragging" is not checked, the image windows cannot be moved
 * Cannot copy the text from a pasted file path
