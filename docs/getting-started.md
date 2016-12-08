@@ -6,7 +6,7 @@ Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Past
 
 #### How to start snipping
 * By hotkey (default <kbd>F1</kbd>)
-* Left click on the tray icon
+* <kbd>Left click</kbd> on the tray icon
 
 #### What is a _successful snipping_
 * Save to clipboard ( ![](https://www.snipaste.com/img/copy16.svg) / <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>Enter</kbd> / <kbd>Double click</kbd> on the snipping area)
@@ -93,6 +93,9 @@ Therefore, whether an image will come out, or what will appear when you paste, d
 
 #### Rotate the image window
 * <kbd>1</kbd> <kbd>2</kbd>
+
+#### Horizontal/Vertical flip
+* <kbd>3</kbd> <kbd>4</kbd>
 
 #### Scale the image window
 * <kbd>Mouse scroll</kbd>

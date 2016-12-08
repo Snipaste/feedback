@@ -1,6 +1,6 @@
 # Snipaste
 
-[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-80c342.svg)](/#)
+[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-42b983.svg)](/#)
 [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64)
 [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86)
 [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
@@ -54,9 +54,9 @@ The macOS version and Linux version are under development. Please be patient.
 
 [![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
 [![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
-[![](https://img.shields.io/badge/Twitter-@Snipaste-1da1f2.svg)](https://twitter.com/Snipaste)
+[![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
-<snipaste.app@gmail.com>
+[![](https://img.shields.io/badge/✉-snipaste.app@gmail.com-42b983.svg)](mailto:snipaste.app@gmail.com)
 
 ## Donate
 
@@ -68,6 +68,6 @@ Thanks you for your support!
 
 
 [![paypal](https://img.shields.io/badge/donate-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
+[![bitcoin](https://img.shields.io/badge/donate-Bitcoin-f7931a.svg)](https://i.v2ex.co/UwhVMHD7.png)
 [![alipay](https://img.shields.io/badge/donate-Alipay-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
 [![wechat](https://img.shields.io/badge/donate-Wechat-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)
-

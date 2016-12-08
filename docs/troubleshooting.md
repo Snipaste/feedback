@@ -34,7 +34,7 @@
   * Upgrade to the latest Snipaste. Startup as admin on system boot is supported since v1.10.0.
 
 ### UI elements in the Chrome browser cannot be automatically detected when snipping
-* Please enable the `Global accessibility mode` in [chrome://accessibility/](chrome://accessibility/).
+* Please enable the `Global accessibility mode` in `chrome://accessibility/`.
   * You need to enable this flag every time you launch Chrome.
   * If you wish to enable `Global accessibility mode` automatically, you can launch Chrome with the `--force-renderer-accessibility` flag.
 * Firefox and IE naturally support this feature and need no further settings.

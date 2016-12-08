@@ -15,10 +15,10 @@
 * 请点击“更多信息”，然后点击“仍要运行”
 * 这只是因为 Snipaste 尚未进行数字签名，只要是从[官网](https://zh.snipaste.com)下载的，请放心使用
 
-### 检查更新时提示“网络错误: 99”
+### 检查更新时提示 `网络错误: 99`
 * 通常是由于程序目录下缺少 libeay32.dll 和 ssleay32.dll，请下载完整包并完整解压覆盖
 
-### 运行后提示缺少 Qt5***.dll 错误
+### 运行后提示缺少 Qt5\*\*\*.dll 错误
 * 请确保网站提供的压缩包中的每个文件都在本地的程序目录中
 * Snipaste 版本升级时可能会增加新的 dll，所以不建议通过手动替换 .exe 的方式升级，请尽可能使用在线更新
 
@@ -45,11 +45,11 @@
   * 或者，以管理员身份运行 Snipaste
 
 ### 开机启动失效
-* 是否在 Snipaste.exe 右键属性里勾选了“以管理员身份运行此程序”？
-  * 请升级至最新版 Snipaste，v1.10.0 开始已原生支持以管理员身份开机启动
+* 如手动在 Snipaste.exe 右键属性里勾选了“以管理员身份运行此程序”，那么普通方式的开机启动是不会生效的
+  * 如有此类需要，请使用 Snipaste 自带的以管理员身份开机启动（版本 v1.10.0 以上）
 
 ### 截图时无法自动选取 Chrome 浏览器窗口的页面元素
-* 请在 [chrome://accessibility/](chrome://accessibility/) 打开 `Global accessibility mode`
+* 在 Chrome 浏览器地址栏中输入并打开 `chrome://accessibility`，勾选 `Global accessibility mode`
   * 每次重启 Chrome 都需要重新打开这个选项
   * 如果希望每次打开 Chrome 时自动启用 `Global accessibility mode`，请给 Chrome 的启动命令加上 `--force-renderer-accessibility`
   * 在高分屏下，识别到的元素范围可能有误，此问题暂无法解决

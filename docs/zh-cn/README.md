@@ -1,6 +1,6 @@
 # Snipaste
 
-[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-80c342.svg)](/zh-cn/#)
+[![version](https://img.shields.io/badge/v1.10.3-2016.12.01-42b983.svg)](/zh-cn/#)
 [![x64](https://img.shields.io/badge/下载-64_位-0078d7.svg)](https://dl.snipaste.com/win-x64-cn)
 [![x86](https://img.shields.io/badge/下载-32_位-0078d7.svg)](https://dl.snipaste.com/win-x86-cn)
 [![xp](https://img.shields.io/badge/下载-XP-0078d7.svg)](https://dl.snipaste.com/win-xp-cn)
@@ -52,7 +52,7 @@ macOS 版本 及 Linux 版本 正在开发中，请耐心等待。
 [![](https://img.shields.io/badge/Telegram-%E9%A2%91%E9%81%93-40ace3.svg)](https://telegram.me/snipaste)
 [![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
 
-<snipaste.app@gmail.com>
+[![](https://img.shields.io/badge/✉-snipaste.app@gmail.com-42b983.svg)](mailto:snipaste.app@gmail.com)
 
 ## 捐赠
 
@@ -64,4 +64,5 @@ macOS 版本 及 Linux 版本 正在开发中，请耐心等待。
 
 [![alipay](https://img.shields.io/badge/捐赠-支付宝-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
 [![wechat](https://img.shields.io/badge/捐赠-微信-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)
+[![bitcoin](https://img.shields.io/badge/捐赠-比特币-f7931a.svg)](https://i.v2ex.co/UwhVMHD7.png)
 [![paypal](https://img.shields.io/badge/捐赠-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)

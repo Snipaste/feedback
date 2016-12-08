@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.10.4
+> 2016.12.05
+
+### Fixed:
+* Adding/Removing screens is not detected under some conditions [#233](https://github.com/liulex/Snipaste-Feedback/issues/233)
+* Drag-and-drop operation for GIF files [#260](https://github.com/liulex/Snipaste-Feedback/issues/260)
+* Missing magnifier under some conditions
+* Infinite update notification under some conditions
+
 ## v1.10.3
 > 2016.12.01
 

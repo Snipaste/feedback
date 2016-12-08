@@ -1,5 +1,14 @@
 # 更新日志
 
+## v1.10.4
+> 2016.12.05
+
+### 修复：
+* 特定条件下添加/移除显示器没有被检测到 [#233](https://github.com/liulex/Snipaste-Feedback/issues/233)
+* 对 GIF 文件进行拖拽出错 [#260](https://github.com/liulex/Snipaste-Feedback/issues/260)
+* 特定条件下放大镜消失
+* 特定条件下无限弹出更新通知
+
 ## v1.10.3
 > 2016.12.01
 
