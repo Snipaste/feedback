@@ -1,2 +1,2 @@
 - <a href="https://snipaste.com">Website</a>
-- <a href="/zh-cn">简体中文</a>
+- <a href="/#/zh-cn/">简体中文</a>
