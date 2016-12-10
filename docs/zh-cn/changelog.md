@@ -1,5 +1,20 @@
 # 更新日志
 
+## v1.10.5
+> 2016.12.10
+
+### 新增：
+* 颜色卡片增加 HSV 和 HSI 格式
+
+### 修复：
+* 从 Chrome 复制的文字粘贴到文字标注框后显示出错 [#257](https://github.com/liulex/Snipaste-Feedback/issues/257)
+* 从 Android Studio 复制的文字转化为贴图后丢失了格式 [#266](https://github.com/liulex/Snipaste-Feedback/issues/266)
+* 特定条件下启动，无法对置顶窗口截图 [#269](https://github.com/liulex/Snipaste-Feedback/issues/269)
+* 贴图之间的层叠次序在重启后有可能没有正确恢复
+
+### 改进：
+* "开机启动"已勾选的情况下，启动时若发现开机启动快捷方式丢失，自动尝试重新生成
+
 ## v1.10.4
 > 2016.12.05
 

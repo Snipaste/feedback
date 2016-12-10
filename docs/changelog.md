@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.10.5
+> 2016.12.10
+
+### New:
+* Add HSV and HSI to the color card
+
+### Fixed:
+* Text copied from Chrome has rendering problems after pasted to the text edit [#257](https://github.com/liulex/Snipaste-Feedback/issues/257)
+* Text copied from Android Studio loses its format after converted to an image [#266](https://github.com/liulex/Snipaste-Feedback/issues/266)
+* Cannot capture topmost windows if Snipaste is started under some special conditions [#269](https://github.com/liulex/Snipaste-Feedback/issues/269)
+* Sometimes the z-orders of image windows are not correctly restored
+
+### Improved:
+* If "Start on system boot" is checked and the startup shortcut is found lost when Snipaste is starting, try to regenerate one
+
 ## v1.10.4
 > 2016.12.05
 
