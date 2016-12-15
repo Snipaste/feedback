@@ -4,7 +4,7 @@ Snipaste 是一个简单但强大的`贴图`工具，同时也可以执行`截�
 
 ## 截屏
 
-#### 如何开始截图
+#### 开始截图
 * 快捷键（默认为 <kbd>F1</kbd>）
 * <kbd>鼠标左键</kbd> 单击托盘图标
 
@@ -14,7 +14,7 @@ Snipaste 是一个简单但强大的`贴图`工具，同时也可以执行`截�
 * 保存到贴图 ( ![](https://www.snipaste.com/img/pin16.svg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
 * 快速保存 (<kbd>Shift</kbd> + ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
 
-#### 什么情况截图会被中断
+#### 取消当前截图
 * 任何时刻按 <kbd>Esc</kbd>
 * 任何时刻点击工具条上的关闭按钮
 * 非编辑状态下，按下鼠标右键
@@ -43,7 +43,7 @@ Snipaste 是一个简单但强大的`贴图`工具，同时也可以执行`截�
 * 可按下 <kbd>Shift</kbd> 来切换颜色格式
 
 ## 标注
-#### 如何手动结束当前图案
+#### 手动结束当前图案
 * 单击 <kbd>鼠标右键</kbd>
 
 #### 如何重新编辑已经结束的图案

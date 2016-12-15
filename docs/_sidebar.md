@@ -2,7 +2,7 @@
   - [Download](/#snipaste)
 - [Getting Started](/getting-started)
   - [Snip](/getting-started#snip)
-  - [Image Edit](/getting-started#image-edit)
+  - [Image Annotation](/getting-started#image-annotation)
   - [Paste](/getting-started#paste)
 - [Advanced Tips](/advanced-tips)
 - [Command Line Options](/command-line-options)

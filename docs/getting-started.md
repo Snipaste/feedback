@@ -1,6 +1,6 @@
 # Getting Started
 
-Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Paste`.
+Snipaste consists of three major functionalities: `Snip`, `Image Annotation` and `Paste`.
 
 ## Snip
 
@@ -14,7 +14,7 @@ Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Past
 * Paste to screen ( ![](https://www.snipaste.com/img/pin16.svg) / <kbd>Ctrl</kbd> + <kbd>T</kbd>)
 * Quick Save (<kbd>Shift</kbd> + ![](https://www.snipaste.com/img/save16.svg) / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>)
 
-#### When will the snipping abort
+#### How to abort snipping
 * Press <kbd>Esc</kbd> at any moment
 * Click the `X` button at any moment
 * Right click when you are not in edit mode
@@ -43,7 +43,7 @@ Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Past
 * Press <kbd>C</kbd> when the magnifier is visible. You can then press <kbd>F3</kbd> to paste it as a color card, or press <kbd>Ctrl</kbd> + <kbd>V</kbd> to paste it into other programs
 * You can press <kbd>Shift</kbd> to toggle the color format
 
-## Image Edit
+## Image Annotation
 #### How to finish editing the current shape manually
 * <kbd>Right click</kbd>
 
@@ -68,7 +68,7 @@ Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Past
 * Hold <kbd>Shift</kbd> before you drag the corners of the text box
 
 ## Paste
-In most cases, "Paste" is to convert the content in the system clipboard into an image and make it a topmost window.
+In most cases, "Paste" is to convert the content in the system clipboard into an image and make it a topmost floating window.
 
 Therefore, whether an image will come out, or what will appear when you paste, depends on the content in your system clipboard.
 
