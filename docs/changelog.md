@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.10.6
+> 
+
+### New:
+* Allow the user to recheck updates
+* (Option) Customize the function of <kbd>Enter</kbd> for snipping
+* (Option) Keep the target window for drag-and-drop
+
+### Fixed:
+* The hue value for achromatic colors is -1
+* Some logic errors for update checking
+
 ## v1.10.5
 > 2016.12.10
 

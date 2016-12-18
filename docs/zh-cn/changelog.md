@@ -1,5 +1,17 @@
 # 更新日志
 
+## v1.10.6
+> 
+
+### 新增：
+* 允许用户重新检测更新
+* （选项）自定义截图时回车键的功能
+* （选项）贴图上的拖放操作可保留原贴图
+
+### 修复：
+* 灰度颜色的 Hue 为 -1
+* 更新检测的一些逻辑错误
+
 ## v1.10.5
 > 2016.12.10
 
@@ -29,7 +41,7 @@
 
 ### 新增：
 * 全新的 [用户手册](https://docs.snipaste.com/zh-cn)
-  * 使用 <a href="https://docsify.js.org/zh-cn" target="_blank">docsify</a> 生成
+  * 使用 <a href="https://docsify.js.org/#/zh-cn" target="_blank">docsify</a> 生成
 
 ### 修复：
 * 系统设置“拖动时显示窗口内容”未勾选时，无法移动贴图
