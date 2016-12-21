@@ -214,7 +214,7 @@
  * 如不习惯，请自行设置
 * （选项）自定义输出的图片质量
 * 更新了内置快捷键列表，并增加了“复制”按钮
-* 在贴图上按 Ctrl+Shift+P 唤出选项窗口
+* 在贴图上按 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> 唤出选项窗口
 * [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：General/high_process_priority
 * [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/do_not_omit_synthesized_c
 * 日语翻译 (感谢 **鳳凰院カミ**)
@@ -464,9 +464,9 @@
 
 ### 修复：
 
-* 多屏（主屏在右）截图时按Alt虚线绘制有误
+* 多屏（主屏在右）截图时按 <kbd>Alt</kbd> 虚线绘制有误
 * 多屏情况下，探测的全屏程序窗口超过当前屏幕范围
-* 按住Alt 时，双击贴图窗口，贴图窗口隐藏后取色窗口还在并无法关闭
+* 按住 <kbd>Alt</kbd> 时，双击贴图窗口，贴图窗口隐藏后取色窗口还在并无法关闭
 
 ## v1.2
 > 2016.07.29
