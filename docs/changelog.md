@@ -1,7 +1,7 @@
 # Changelog
 
-## v1.10.6
-> 
+## v1.11.0
+>  To be released...
 
 ### New:
 * Allow the user to recheck updates
@@ -160,7 +160,7 @@
 
 * Guarantee the atomicity of history record files (even for application crash or pow failure)
 * Greatly improved efficiency when switching image groups in a row
-* Disable <kbd>Shift + Left button</kbd> for customizable image operations (due to conflict with image window attaching)
+* Disable <kbd>Shift </kbd>+ <kbd>Left button</kbd> for customizable image operations (due to conflict with image window attaching)
 * Show file path in the balloon when image is saved via Quick Save
 * Remember the position and current tab for Preferences Dialog
 * Show animation when the size of Preferences Dialog is changed
@@ -199,7 +199,7 @@
 
 ### New:
 
-* Support global hotkeys containing "PrtSc"
+* Support global hotkeys containing <kbd>PrtSc</kbd>
 
 ### Improved:
 
@@ -335,10 +335,10 @@
 ### New:
 
 * Auto updater
-* Press `Tab` to toggle between picking a window/ picking an UI element when snipping
-* Press `3` `4` to flip the image on an image window
+* Press <kbd>Tab</kbd> to toggle between picking a window/ picking an UI element when snipping
+* Press <kbd>3</kbd> <kbd>4</kbd> to flip the image on an image window
 * (Option) General: Enhanced tray menu
-* (Option) Snip: Capture the cursor (You can also press ` to toggle when you are snipping)
+* (Option) Snip: Capture the cursor (You can also press <kbd>`</kbd> to toggle when you are snipping)
 * (Option) Snip: Pin to screen by clicking the mid-button [#63](https://github.com/liulex/Snipaste-Feedback/issues/63)
 * (Option) Snip & Paste: Copy as Windows Bitmap [#20](https://github.com/liulex/Snipaste-Feedback/issues/20)
   * If you cannot paste the image into some apps (like Skype and UWP Wechat), check it. But in the meantime the alpha channel is lost
@@ -360,8 +360,8 @@
 * Possible crashes when pasting the screenshot to the screen directly [#119](https://github.com/liulex/Snipaste-Feedback/issues/119)
 * Slowing down the machine when trying to paste a huge file as an image window [#102](https://github.com/liulex/Snipaste-Feedback/issues/102)
 * Unable to snip with fingers on a touch screen
-* `Ctrl`+`Shift`+`S` sometimes has no effect [#42](https://github.com/liulex/Snipaste-Feedback/issues/42)
-* Press `Shift` when drawing an rectangle or ellipse, the icons on the paint bar are not consistent [#53](https://github.com/liulex/Snipaste-Feedback/issues/53)
+* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> sometimes has no effect [#42](https://github.com/liulex/Snipaste-Feedback/issues/42)
+* Press <kbd>Shift</kbd> when drawing an rectangle or ellipse, the icons on the paint bar are not consistent [#53](https://github.com/liulex/Snipaste-Feedback/issues/53)
 * Blurry image on some HiDPI screens with some settings [#74](https://github.com/liulex/Snipaste-Feedback/issues/74)
 * Incorrect scaling on image windows for some HiDPI screens with some settings [#74](https://github.com/liulex/Snipaste-Feedback/issues/74)
 * Incorrect rendering for semi-transparent text
@@ -372,9 +372,9 @@
 
 ### Improved:
 
-* No more rotation when dragging the text box, unless you hold `Ctrl`
+* No more rotation when dragging the text box, unless you hold <kbd>Ctrl</kbd>
 * The last postfix is remembered and applied when you save an image from a file save dialog
-* Fix the arrow size instead of adjusting according to its length, but the user can change its size by `Mouse scrolling` or pressing `1` `2`
+* Fix the arrow size instead of adjusting according to its length, but the user can change its size by <kbd>Mouse scrolling</kbd> or pressing <kbd>1</kbd> <kbd>2</kbd>
 * Merge the Quick Save Folder for Snip and Paste
 * Now you can click on the group name in the tray menu to switch to that group. To rename or close a group, right click on the group name.
 * Add a rainbow corner on the bigger color button to indicate it can be used to pick a color (By Fubuki)
@@ -407,11 +407,11 @@
 
 ### New:
 
-* Quick save folders for snipping and pasting (Press `Ctrl`+`Shift`+`S`, or `Shift`+`"Save" button`)* New: When detecting the UI elements in snipping, press `Space` to use the current area
-* Cross lines at the cursor position (nedd to press `Alt`)
-* Press `Ctrl`+`A` when snipping, the snipping area will be set to fullscreen
+* Quick save folders for snipping and pasting (Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>, or <kbd>Shift</kbd> + `"Save" button`)* New: When detecting the UI elements in snipping, press <kbd>Space</kbd> to use the current area
+* Cross lines at the cursor position (nedd to press <kbd>Alt</kbd>)
+* Press <kbd>Ctrl</kbd> + <kbd>A</kbd> when snipping, the snipping area will be set to fullscreen
 * "Internal hotkeys" window (under "Hotkeys" tab in the option dialog)
-* Send the screenshot/image to the printer (no buttons, only via `Ctrl`+`P`)
+* Send the screenshot/image to the printer (no buttons, only via <kbd>Ctrl</kbd> + <kbd>P</kbd>)
 * (Option) Show usage tips on the magnifier (enbaled by default)
 * (Option) Use Hex value for color picker
 * German translation (Thanks to **Samuel Marcius**)
@@ -421,23 +421,24 @@
 ### Fixed:
 
 * Some gloabl shortcut has no effect, though it is marked as success
-    * Except for `PrtScr` and hotkeys occupied by the system or other programs, most shorcuts should be ok now.
+    * Except for <kbd>PrtScr</kbd> and hotkeys occupied by the system or other programs, most shorcuts should be ok now.
 * The default global hotkeys may still be possessed after the user changes the keys
 * When in dual-screen (the primary on the right), the eraser/mosaic/blur effects are not painted correctly
 * Snipaste may crash when detecting UI elements
 * The color dialogs are not translated
-* Press `Alt` and move the cursor acroos several image windows, some magnifiers do not hide themselves correctly
-* The option "Use snipping position" does not affect the `"Paste to screen" button` (or `Ctrl`+`W`)* Improved: When the color value is copied from an image window, flash the magnifier to indicate the copy is done
+* Press <kbd>Alt</kbd> and move the cursor acroos several image windows, some magnifiers do not hide themselves correctly
+* The option "Use snipping position" does not affect the `"Paste to screen" button` (or <kbd>Ctrl</kbd> + <kbd>W</kbd>)
 
 ### Improved:
 
-* The option “Ignore `Win` when snipping” will only affect the single press of `Win`. Combined keys with `Win` (e.g. `Win`+`Space`) will not be affected
+* When the color value is copied from an image window, flash the magnifier to indicate the copy is done
+* The option “Ignore `Win` when snipping” will only affect the single press of <kbd>Win</kbd>. Combined keys with <kbd>Win</kbd> (e.g. <kbd>Win</kbd> + <kbd>Space</kbd>) will not be affected
 * You can now choose different image formats from the save file dialog
 * Add a border (of your theme color) for the hotkey editor
 * Add an obvious hint of how to delete the current hotkey
-* Change the default global hotkeys (e.g. 'Paste' is now `F3` instead of `F2`)
+* Change the default global hotkeys (e.g. 'Paste' is now <kbd>F3</kbd> instead of <kbd>F2</kbd>)
     * It will only affect new users. Existing users will not lose your own settings.
-* User arrow keys (instead of `WASD`) to move the image window, in order to be consistent with the behavior of snipping area control
+* User <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> (instead of <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>) to move the image window, in order to be consistent with the behavior of snipping area control
 * Use the same color board as mspaint's
 
 ## v1.4
@@ -446,26 +447,26 @@
 ### New:
 
 * XP version
-* Use `Backspace` to delete the current hotkey
-* Use `Esc` to hide the image window, and `Shift` + `Esc` to destroy it
+* Use <kbd>Backspace</kbd> to delete the current hotkey
+* Use <kbd>Esc</kbd> to hide the image window, and <kbd>Shift</kbd> + <kbd>Esc</kbd> to destroy it
 * (Option) Hide all images if you paste when any image window is flashing
 
 ### Fixed:
-* Negative numbers appear when using `Shift` + `Arrow keys` to shrink the snipping area
+* Negative numbers appear when using <kbd>Shift</kbd> + <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to shrink the snipping area
 
 ## v1.3
 > 2016.07.29
 
 ### New:
 
-* Press `Shift` + `Arrow keys` to shrink the snipping area
+* Press <kbd>Shift</kbd> + <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to shrink the snipping area
 * Traditional Chinese translation (Thanks to **zhtw**)
 
 ### Fixed:
 
-* When in dual-screen (the primary on the right), press `Alt` and the dashed lines are not drawn correctly
+* When in dual-screen (the primary on the right), press <kbd>Alt</kbd> and the dashed lines are not drawn correctly
 * When in dual-screen, the detected area for a fullscreen program outbounds its screen
-* Press `Alt` and double-click the image window, the window is hidden but the magnifier is still visible
+* Press <kbd>Alt</kbd> and double-click the image window, the window is hidden but the magnifier is still visible
 
 ## v1.2
 > 2016.07.29
