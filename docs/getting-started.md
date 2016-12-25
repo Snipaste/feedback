@@ -26,10 +26,10 @@ Snipaste consists of three major functionalities: `Snip`, `Image Annotation` and
 * Only _successful snippings_ will appear in the snipping history
 * The max number of history records can be set in the option dialog
 
-#### Move the cursor by 1 pixel
+#### Move the cursor by pixel
  * <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>
 
-#### Adjust the snipping area by a pixel
+#### Adjust the snipping area by pixel
 * Hold <kbd>Mouse left button</kbd> + <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> (**Recommended!** You can move, enlarge and shrink the area in this way.）
 * Move the area： <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd>
 * Enlarge the area：<kbd>Ctrl</kbd> + <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd>
