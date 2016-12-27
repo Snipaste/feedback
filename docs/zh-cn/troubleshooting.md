@@ -52,8 +52,9 @@
 * 在 Chrome 浏览器地址栏中输入并打开 `chrome://accessibility`，勾选 `Global accessibility mode`
   * 每次重启 Chrome 都需要重新打开这个选项
   * 如果希望每次打开 Chrome 时自动启用 `Global accessibility mode`，请给 Chrome 的启动命令加上 `--force-renderer-accessibility`
-  * 在高分屏下，识别到的元素范围可能有误，此问题暂无法解决
-* Firefox 及 IE 浏览器则无需额外设置
+  * 当屏幕 DPI 不是 100% 时，识别到的元素范围可能有误，这是 Chrome 的问题...
+* Firefox 及 IE 浏览器无需任何额外设置
+* 暂不支持检测 Microsoft Edge 浏览器中的网页元素
 
 ### 代码编辑器里带语法高亮的代码，复制后贴出来并没有语法高亮
 * 这是因为你复制出来的代码并没有带 HTML 格式

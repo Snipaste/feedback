@@ -37,7 +37,9 @@
 * Please enable the `Global accessibility mode` in `chrome://accessibility/`.
   * You need to enable this flag every time you launch Chrome.
   * If you wish to enable `Global accessibility mode` automatically, you can launch Chrome with the `--force-renderer-accessibility` flag.
-* Firefox and IE naturally support this feature and need no further settings.
+  * When DPI is not 100%, the detection may not be accurate. It's Chrome's problem...
+* For Firefox and IE, no extra settings are required.
+* Detecting webpage elements in Microsoft Edge is not supported for the moment.
 
 ### The code has syntax highlight in the code editor, but after pasted by Snipaste, the syntax highlight is lost in the image window
 * It is because the code you copied is pure text and not in HTML format.
