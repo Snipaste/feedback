@@ -73,7 +73,7 @@
 ### 新增：
 * 可随时二次编辑文字标注
 * 折线、画笔、马赛克、橡皮擦等形状可以整体拖动
-* <kbd>鼠标左键</kbd>按下 + <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> 可逐像素移动贴图 [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
+* <kbd>鼠标左键</kbd> 按下 + <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> 可逐像素移动贴图 [#211](https://github.com/liulex/Snipaste-Feedback/issues/211)
 * [命令行选项](https://docs.snipaste.com/zh-cn/command-line-options)：`--paste-files` 可指定文件夹
 * [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/exclude_from_detection
 * [高级设置](https://docs.snipaste.com/zh-cn/advanced-configs)：snip/crashes
