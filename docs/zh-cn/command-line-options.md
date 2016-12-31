@@ -27,6 +27,8 @@ Snipaste 启动之后，再带命令行参数启动 Snipaste，才会执行响�
                                       高度为 HEIGHT，选区中心为当前的光标位置
     --snip-full                       开始截屏，并把选区设定为全屏
     --snip-last                       开始截屏，并把选区设定为上一次成功截屏的区域
+    --snip-whiteboard                 进入白板模式（注意：工具条会被自动隐藏，
+                                      如果需要它，可以通过空格键切换出来）
     --snip-delay                      开始延时截屏
     --snip-delay TIME                 TIME 秒后开始截屏
 

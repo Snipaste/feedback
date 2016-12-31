@@ -25,6 +25,8 @@ In other words, if Snipaste is not running in the background, all the command li
     --snip-full                       Start snipping with the snipping area set to fullscreen
     --snip-last                       Start snipping with the snipping area being the same as
                                       the last successful snipping
+    --snip-whiteboard                 Enter whiteboard mode (Note: the toolbar will be
+                                      automatically hidden, press Space key if you need it)
     --snip-delay                      Start delayed snipping
     --snip-delay TIME                 Start snipping after TIME seconds
 

@@ -1,16 +1,31 @@
 # Changelog
 
 ## v1.11.0
->  To be released...
+> 2017.01.01
 
 ### New:
-* Allow the user to recheck updates
-* (Option) Customize the function of <kbd>Enter</kbd> for snipping
-* (Option) Keep the target window for drag-and-drop
+* Remember more than one snipped area [#249](https://github.com/liulex/Snipaste-Feedback/issues/249)
+  * Switch between them by pressing multiple times of <kbd>R</kbd> or <kbd>Shift</kbd> + <kbd>R</kbd>
+  * The number is the same as the max number of history snipping records
+* Add an alternative update feed source
+* Add a "Recheck" button in the updater dialog
+* [Commandl Line Options](https://docs.snipaste.com/command-line-options)：`--snip-whiteboard` whiteboard mode
+* Option: Customize the action of <kbd>Enter</kbd> for snipping
+* Option: Zoom at mouse cursor [#277](https://github.com/liulex/Snipaste-Feedback/issues/277)
+* Option: 'Reset image' also works in thumbnail mode [#280](https://github.com/liulex/Snipaste-Feedback/issues/280)
+* Option: Preserve the original image window for drag-and-drop
+* Dutch translation (thanks to **Stephan Paternotte**)
 
 ### Fixed:
-* The hue value for achromatic colors is -1
-* Some logic errors for update checking
+* Detecting elements in Nsight causes its crash [#290](https://github.com/liulex/Snipaste-Feedback/issues/290)
+* Under certain conditions, the <kbd>Win</kbd> key is not unhooked after snipping is finished [#272](https://github.com/liulex/Snipaste-Feedback/issues/272)
+* The first press of <kbd>Tab</kbd> has no effect
+* Some logical errors when checking for updates
+
+### Improved:
+* Now you can toggle the toolbar by <kbd>Space</kbd> even in edit mode
+* Let the hue value for achromatic colors be 0 instead of -1
+* Improvements to many details :)
 
 ## v1.10.5
 > 2016.12.10
@@ -91,13 +106,13 @@
 * Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> on the image window to directly copy the plain text (if this image is converted from text)
 * Click the balloon after a Quick Save to reveal the file in Windows Explorer [#220](https://github.com/liulex/Snipaste-Feedback/issues/220)
 * "Show in folder" action in the context menu of image window [#223](https://github.com/liulex/Snipaste-Feedback/issues/223)
-* (Option) Startup as admin on system boot
+* Option: Startup as admin on system boot
   * So that you can use hotkeys even if the active window is run as admin
-* (Option) Proxy server settings
-* (Option) Delay time for update checking after startup
-* (Option) Check for updates every a few hours
-* (Option) Include beta builds when checking for updates
-* (Option) Disable text-to-image conversion
+* Option: Proxy server settings
+* Option: Delay time for update checking after startup
+* Option: Check for updates every a few hours
+* Option: Include beta builds when checking for updates
+* Option: Disable text-to-image conversion
 
 ### Improved:
 * **Greatly improved performance when snipping**
@@ -186,7 +201,7 @@
 
 ### New:
 
-* (Option) Play a sound effect after snipping
+* Option: Play a sound effect after snipping
 * When editing, press Alt+C to pick the screen color into the painting pen
 
 ### Improved:
@@ -210,10 +225,10 @@
 
 ### New:
 
-* (Option) Customize the mouse operation for image windows
+* Option: Customize the mouse operation for image windows
  * Note: 'Close image' has been reset to 'Double click' and 'Toggle thumbnail mode' is now 'Win + Left click'
  * Change them yourself if you don't like the defaults
-* (Option) Customize the output image quality
+* Option: Customize the output image quality
 * The Internal Hotkeys Dialog is updated and added with a 'Copy' button
 * Press Ctrl+Shift+P on an image window to open the Preferences Dialog
 * [Advanced Configs](https://docs.snipaste.com/advanced-configs): General/high_process_priority
@@ -279,7 +294,7 @@
 ### New:
 
 * Thumbnail mode for the image windows (double click on it)
-* (Option) Thumbnail size
+* Option: Thumbnail size
 * "Restore Defaults" buttons in Preferences Dialog
 * The alpha channel can be applied to marker pen now
 
@@ -337,19 +352,19 @@
 * Auto updater
 * Press <kbd>Tab</kbd> to toggle between picking a window/ picking an UI element when snipping
 * Press <kbd>3</kbd> <kbd>4</kbd> to flip the image on an image window
-* (Option) General: Enhanced tray menu
-* (Option) Snip: Capture the cursor (You can also press <kbd>`</kbd> to toggle when you are snipping)
-* (Option) Snip: Pin to screen by clicking the mid-button [#63](https://github.com/liulex/Snipaste-Feedback/issues/63)
-* (Option) Snip & Paste: Copy as Windows Bitmap [#20](https://github.com/liulex/Snipaste-Feedback/issues/20)
+* Option: General: Enhanced tray menu
+* Option: Snip: Capture the cursor (You can also press <kbd>`</kbd> to toggle when you are snipping)
+* Option: Snip: Pin to screen by clicking the mid-button [#63](https://github.com/liulex/Snipaste-Feedback/issues/63)
+* Option: Snip & Paste: Copy as Windows Bitmap [#20](https://github.com/liulex/Snipaste-Feedback/issues/20)
   * If you cannot paste the image into some apps (like Skype and UWP Wechat), check it. But in the meantime the alpha channel is lost
-* (Option) Snip: Border width
-* (Option) Snip: Show mask in the magnifier
-* (Option) Snip: Show border in the magnifier
-* (Option) Snip: Auto show cross lines
-* (Option) Snip: Quit snipping if any other window is activated
-* (Option) Paste: Default opacity [#96](https://github.com/liulex/Snipaste-Feedback/issues/96)
-* (Option) Paste: Mnemonics on the context menu
-* (Option) Paste: Flash after switching to another group
+* Option: Snip: Border width
+* Option: Snip: Show mask in the magnifier
+* Option: Snip: Show border in the magnifier
+* Option: Snip: Auto show cross lines
+* Option: Snip: Quit snipping if any other window is activated
+* Option: Paste: Default opacity [#96](https://github.com/liulex/Snipaste-Feedback/issues/96)
+* Option: Paste: Mnemonics on the context menu
+* Option: Paste: Flash after switching to another group
 
 ### Fixed:
 
@@ -388,7 +403,7 @@
 
 ### New:
 
-* (Option) Copy the Hex value without '#'
+* Option: Copy the Hex value without '#'
 * A hollow arrow style
 
 ### Fixed:
@@ -412,8 +427,8 @@
 * Press <kbd>Ctrl</kbd> + <kbd>A</kbd> when snipping, the snipping area will be set to fullscreen
 * "Internal hotkeys" window (under "Hotkeys" tab in the option dialog)
 * Send the screenshot/image to the printer (no buttons, only via <kbd>Ctrl</kbd> + <kbd>P</kbd>)
-* (Option) Show usage tips on the magnifier (enbaled by default)
-* (Option) Use Hex value for color picker
+* Option: Show usage tips on the magnifier (enbaled by default)
+* Option: Use Hex value for color picker
 * German translation (Thanks to **Samuel Marcius**)
 * Greek translation (Thanks to **geogeo.gr**)
 * Swedish translation (Thanks to **Åke Engelbrektson**)
@@ -449,7 +464,7 @@
 * XP version
 * Use <kbd>Backspace</kbd> to delete the current hotkey
 * Use <kbd>Esc</kbd> to hide the image window, and <kbd>Shift</kbd> + <kbd>Esc</kbd> to destroy it
-* (Option) Hide all images if you paste when any image window is flashing
+* Option: Hide all images if you paste when any image window is flashing
 
 ### Fixed:
 * Negative numbers appear when using <kbd>Shift</kbd> + <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to shrink the snipping area
