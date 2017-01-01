@@ -9,7 +9,7 @@
   * The number is the same as the max number of history snipping records
 * Add an alternative update feed source
 * Add a "Recheck" button in the updater dialog
-* [Command Line Options](https://docs.snipaste.com/command-line-options)：`--snip-whiteboard` whiteboard mode
+* [Command Line Options](https://docs.snipaste.com/command-line-options): `--snip-whiteboard` whiteboard mode
 * Option: Customize the action of <kbd>Enter</kbd> for snipping
 * Option: Zoom at mouse cursor [#277](https://github.com/liulex/Snipaste-Feedback/issues/277)
 * Option: 'Reset image' also works in thumbnail mode [#280](https://github.com/liulex/Snipaste-Feedback/issues/280)
