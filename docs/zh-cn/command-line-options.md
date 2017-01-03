@@ -6,7 +6,7 @@ Snipaste 1.10 开始，支持带命令行选项调用 Snipaste 的部分功能�
 
 即，如果当前没有运行 Snipaste，所有命令行选项会被忽略，转为正常启动 Snipaste.
 
-Snipaste 启动之后，再带命令行参数启动 Snipaste，才会执行响应的功能。
+Snipaste 启动之后，再带命令行参数启动 Snipaste，才会执行相应的功能。
 
 
 # 调用方法
