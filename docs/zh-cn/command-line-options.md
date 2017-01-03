@@ -42,7 +42,7 @@ Snipaste 启动之后，再带命令行参数启动 Snipaste，才会执行相�
     --paste-files FILE1 FILE2 ...     将图像文件 FILE1, FILE2 等贴出
     --paste-files FOLDER1 FILE1       将图像文件 FILE1, FILE2, FILE3 等贴出 
       FILE2 FOLDER2 FILE3 ...         如果 FILE1 是个相对路径，那么它是相对于文件夹 FOLDER1 的，
-                                      同理 FILE3 是相对于文件夹 FOLDER3.
+                                      同理 FILE3 是相对于文件夹 FOLDER2.
                                       文件夹路径需要以 / 或 \ 结尾。
     --images-toggle                   显示/隐藏所有贴图
     --images-show                     显示所有贴图
