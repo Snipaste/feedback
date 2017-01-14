@@ -1,5 +1,26 @@
 # Changelog
 
+## v1.11.1
+> 2017.01.15
+
+### New:
+* Option: Max number of history snipping areas
+* Option: Loop through history snipping areas
+* Portuguese (Portugal) translation (thanks to **Luis Neves**)
+
+### Fixed:
+* Possible restart failure after version update, when startup as admin (thanks to **Fubuki**)
+* Short-time interface freeze when checking for update for the first time since launched
+* Text of some widgets in the Preferences Dialog is not updated when switching languages
+* Response is not instant enough when trying to move the image window by holding the mouse left button and pressing <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> [#315](https://github.com/liulex/Snipaste-Feedback/issues/315)
+  * Note: this operation has problems on Windows XP
+* Problems on the image borders after mirroring the image [#248](https://github.com/liulex/Snipaste-Feedback/issues/248)
+
+### Improved:
+* The response speed for the first snipping since launched
+* Translated the color dialog, font dialog, etc.
+* Improvements to many details :)
+
 ## v1.11.0
 > 2017.01.01
 
