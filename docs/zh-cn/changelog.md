@@ -12,12 +12,11 @@
 * 以管理员身份自启时，更新版本时可能自动重启失败（感谢 **Fubuki**）
 * 启动后第一次检查更新时短暂卡顿
 * 切换界面语言后，选项窗口中部分控件的文字没有被更新
-* 按住 <kbd>鼠标左键</kbd> 并用 <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> 移动贴图时反应不及时 [#315](https://github.com/liulex/Snipaste-Feedback/issues/315)
-  * 注意：该操作在 Windows XP 系统有问题
 * 翻转贴图时在边界出现问题 [#248](https://github.com/liulex/Snipaste-Feedback/issues/248)
 
 ### 改进：
-* 优化启动后第一次截图的反应速度
+* 优化启动后第一次截图的响应速度
+* 优化按住 <kbd>鼠标左键</kbd> 并用 <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> 移动贴图的响应速度 [#315](https://github.com/liulex/Snipaste-Feedback/issues/315)
 * 全面汉化所有对话框
 * 多处细节优化 :)
 

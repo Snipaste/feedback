@@ -12,12 +12,12 @@
 * Possible restart failure after version update, when startup as admin (thanks to **Fubuki**)
 * Short-time interface freeze when checking for update for the first time since launched
 * Text of some widgets in the Preferences Dialog is not updated when switching languages
-* Response is not instant enough when trying to move the image window by holding the mouse left button and pressing <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> [#315](https://github.com/liulex/Snipaste-Feedback/issues/315)
-  * Note: this operation has problems on Windows XP
 * Problems on the image borders after mirroring the image [#248](https://github.com/liulex/Snipaste-Feedback/issues/248)
 
 ### Improved:
-* The response speed for the first snipping since launched
+* Faster response for the first snipping since launched
+* Instant response for moving the image window by holding the mouse left button and pressing <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> [#315](https://github.com/liulex/Snipaste-Feedback/issues/315)
+  * Note: this operation has problems on Windows XP
 * Translated the color dialog, font dialog, etc.
 * Improvements to many details :)
 
