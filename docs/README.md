@@ -1,6 +1,6 @@
 # Snipaste
 
-[![version](https://img.shields.io/badge/v1.11.1-2017.01.15-42b983.svg)](/#)
+[![version](https://img.shields.io/badge/v1.11.2-2017.01.17-42b983.svg)](/#)
 [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64)
 [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86)
 [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)

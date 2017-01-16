@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.11.2
+> 2017.01.17
+
+### Fixed:
+* Sometimes the updater dialog does not appear when an update is available [#298](https://github.com/liulex/Snipaste-Feedback/issues/298)
+
 ## v1.11.1
 > 2017.01.15
 
