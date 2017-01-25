@@ -1,5 +1,3 @@
-- [Snipaste](/)
-  - [Download](/#snipaste)
 - [Getting Started](/getting-started)
   - [Snip](/getting-started#snip)
   - [Image Annotation](/getting-started#image-annotation)
@@ -17,6 +15,7 @@
   - [Windows](/troubleshooting#windows)
 - [Changelog](/changelog)
 - [More](/#feedback)
+  - [Download](/#snipaste)
   - [Feedback](/#feedback)
   - [Cross-Platform Support](/#cross-platform-support)
   - [Contact](/#Contact)

@@ -8,6 +8,10 @@
 * 请根据操作系统的版本（32位/64位），下载并安装适合您系统版本的 [微软 Visual C++ 2015 可再发行组件包](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
 * 如果没有权限安装 VC2015 或安装失败，也可以下载相应压缩包（[32位](https://dl.snipaste.com/vc2015-dll-x86-cn) | [64位](https://dl.snipaste.com/vc2015-dll-x64-cn)），解压后将所有 dll 放到 Snipaste 目录下
 
+### 64 位版 Snipaste 偶尔崩溃
+* 原因尚未查明，但不妨试一试 32 位版的 Snipaste（遇到的此问题的大多数用户均反映 32 位版没有问题）
+* 如 32 位版依旧崩溃，请提交一个 [issue](https://github.com/liulex/Snipaste-Feedback/issues)
+
 ### Windows XP 32位运行后提示 Snipaste.exe 不是有效的 Win32 应用程序
 * 请 [下载](https://zh.snipaste.com/download.html) 针对 XP 系统的 Snipaste 程序
 
@@ -64,4 +68,4 @@
 ### 贴图无法拖动超过屏幕上边界
 * 系统属性 - 高级 - 性能设置 - 视觉效果 - 勾选"拖动时显示窗口内容" - 确定
 
-![](https://cloud.githubusercontent.com/assets/2010459/18747273/018a85c2-80ff-11e6-9e84-9c42348ffd77.png)
+  ![](https://cloud.githubusercontent.com/assets/2010459/18747273/018a85c2-80ff-11e6-9e84-9c42348ffd77.png)

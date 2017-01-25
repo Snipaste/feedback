@@ -6,6 +6,10 @@
 * Please install the correct version (32-bit/64-bit) of [Visual C++ Redistributable for VS 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 * If for some reason you are unable to install VC2015, you can also download this zip file ([32-bit](https://dl.snipaste.com/vc2015-dll-x86) | [64-bit](https://dl.snipaste.com/vc2015-dll-x64)). Unzip it and put all the dll files into the Snipaste directory.
 
+### The 64-bit Snipaste suffers from occasional crashes
+* The cause is still unclear, but you may try out the 32-bit Snipaste. The problem should disappear.
+* If the 32-bit version still crashes, please don't hesitate to file an [issue](https://github.com/liulex/Snipaste-Feedback/issues).
+
 ### "Not a valid 32-bit application" when running on Windows XP 32-bit
 * Please [download](https://www.snipaste.com/download.html) the pack for XP.
 
@@ -49,4 +53,4 @@
 ### The image window cannot be moved across the top border of the screen
  * `System Properties` - `Advanced` - `Performance settings` - `Visual effects` - **Check** `Show window contents while window dragging` - `OK`
 
-![](https://cloud.githubusercontent.com/assets/2010459/20704971/25d64640-b65c-11e6-9287-b42309145359.png)
+  ![](https://cloud.githubusercontent.com/assets/2010459/20704971/25d64640-b65c-11e6-9287-b42309145359.png)

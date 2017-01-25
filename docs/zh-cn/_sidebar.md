@@ -1,5 +1,3 @@
-- [Snipaste](/zh-cn/)
-  - [下载](/zh-cn/#snipaste)
 - [基础操作](/zh-cn/getting-started)
   - [截图](/zh-cn/getting-started#截图)
   - [标注](/zh-cn/getting-started#标注)
@@ -17,6 +15,7 @@
   - [Windows](/zh-cn/troubleshooting#windows)
 - [更新日志](/zh-cn/changelog)
 - [其他](/zh-cn/#问题反馈)
+  - [下载](/zh-cn/#snipaste)
   - [问题反馈](/zh-cn/#问题反馈)
   - [跨平台支持](/zh-cn/#跨平台支持)
   - [联系](/zh-cn/#联系)
