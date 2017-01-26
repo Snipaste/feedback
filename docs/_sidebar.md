@@ -13,6 +13,7 @@
   - [[Snip]](/advanced-configs#snip)
 - [Troubleshooting](/troubleshooting)
   - [Windows](/troubleshooting#windows)
+- [FAQ](/faq)
 - [Changelog](/changelog)
 - [More](/#feedback)
   - [Download](/#snipaste)

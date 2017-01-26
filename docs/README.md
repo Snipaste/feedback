@@ -32,6 +32,10 @@ Yes, there are some hidden settings not exposed in the Preferences Dialog.
 
 Snipaste is not running as expected? You probably can find a solution here. If not, file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
 
+## [FAQ](/faq)
+
+Perhaps the answer you want is already here.
+
 ## [Changelog](/changelog)
 
 See how Snipaste is growing better because of you.
