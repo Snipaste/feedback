@@ -1,6 +1,6 @@
 # FAQ
 
-1. Snipaste cannot start / crashes / is not responding / configs are not saved ……
+1. Snipaste cannot start / crashes / is not responding / settings are not saved ……
 
   Please refer to [troubleshooting](https://docs.snipaste.com/#/troubleshooting).
 

@@ -14,6 +14,7 @@
 - [Troubleshooting](/troubleshooting)
   - [Windows](/troubleshooting#windows)
 - [FAQ](/faq)
+- [Built-in Hotkeys](/built-in-hotkeys)
 - [Changelog](/changelog)
 - [More](/#feedback)
   - [Download](/#snipaste)

@@ -14,6 +14,7 @@
 - [故障排除](/zh-cn/troubleshooting)
   - [Windows](/zh-cn/troubleshooting#windows)
 - [常见问题](/zh-cn/faq)
+- [内置快捷键](/zh-cn/built-in-hotkeys)
 - [更新日志](/zh-cn/changelog)
 - [其他](/zh-cn/#问题反馈)
   - [下载](/zh-cn/#snipaste)

@@ -36,6 +36,10 @@ Snipaste is not running as expected? You probably can find a solution here. If n
 
 Perhaps the answer you want is already here.
 
+## [Built-in Hotkeys](/built-in-hotkeys)
+
+The best way to master them is to follow the list and press them one by one.
+
 ## [Changelog](/changelog)
 
 See how Snipaste is growing better because of you.
