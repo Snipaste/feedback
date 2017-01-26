@@ -38,7 +38,7 @@
 
 **high_process_priority=true**
 
-## [snip]
+## [Snip]
 
     ; 不屏蔽模拟的 C 键 (>= v1.8.4)
     ; 大部分取词软件的划译功能是通过鼠标松开时自动发送 Ctrl + C 来实现的，为防冲突，Snipaste 需要屏蔽模拟的 C 键

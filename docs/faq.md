@@ -92,6 +92,6 @@
 
   Sure, with the following system setting:
   
- * `System Properties` - `Advanced` - `Performance settings` - `Visual effects` - **Check** `Show window contents while window dragging` - `OK`
+ * `System Properties` - `Advanced` - `Performance settings` - `Visual effects` - Check `Show window contents while window dragging` - `OK`
 
     ![](https://cloud.githubusercontent.com/assets/2010459/20704971/25d64640-b65c-11e6-9287-b42309145359.png)

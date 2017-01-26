@@ -39,7 +39,7 @@ These are settings without user interface. Please use them with caution.
 
 **high_process_priority=true**
 
-## [snip]
+## [Snip]
 
     ; Do not omit sythesized key 'C' (since v1.8.4)
     ; Some of the dictionary programs sends synthesized Ctrl + C when mouse left button is released,

@@ -51,6 +51,6 @@
  * I personally recommend using Visual Studio. With "Productivity Power Tools" extension installed and the extension's "HTML Copy" feature enabled, the pasted image shall be rendered the same as the editor.
 
 ### The image window cannot be moved across the top border of the screen
- * `System Properties` - `Advanced` - `Performance settings` - `Visual effects` - **Check** `Show window contents while window dragging` - `OK`
+ * `System Properties` - `Advanced` - `Performance settings` - `Visual effects` - Check `Show window contents while window dragging` - `OK`
 
   ![](https://cloud.githubusercontent.com/assets/2010459/20704971/25d64640-b65c-11e6-9287-b42309145359.png)
