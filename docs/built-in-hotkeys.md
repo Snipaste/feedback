@@ -44,8 +44,8 @@
 | 2 | Rotate the image counter-clockwise by 90 degrees |
 | 3 | Flip the image horizontally |
 | 4 | Flip the image vertically |
-| Mouse Scroll or +/- | Scale the image |
-| Ctrl + Mouse Scroll or Ctrl + +/- | Increase/Decrease the translucency of the image window |
+| Mouse scroll or +/- | Scale the image |
+| Ctrl + Mouse scroll or Ctrl + +/- | Increase/Decrease the translucency of the image window |
 | Esc | Hide the paint bar or close the image window |
 | Shift + Esc | Destroy the image window |
 | Ctrl + Shift + C | Copy the plain text (if this image is converted from text) |

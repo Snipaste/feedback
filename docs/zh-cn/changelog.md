@@ -1,5 +1,16 @@
 # 更新日志
 
+## v1.11.3
+> 2017.01.27
+
+### 新增：
+* [常见问题](https://zh.snipaste.com/faq.html)
+* 越南语翻译（感谢 **evildeepblue**）
+
+### 修复：
+* 禁用自动检测窗口后，截图界面绘制不正常 [#317](https://github.com/liulex/Snipaste-Feedback/issues/317)
+* 一些细节问题
+
 ## v1.11.2
 > 2017.01.17
 

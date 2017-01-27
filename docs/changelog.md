@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.11.3
+> 2017.01.27
+
+### New:
+* [FAQ](https://www.snipaste.com/faq.html)
+* Vietnamese translation (thanks to **evildeepblue**)
+
+### Fixed:
+* Rendering error when "Auto detect widnows" is disabled [#317](https://github.com/liulex/Snipaste-Feedback/issues/317)
+* Some minor bugs
+
 ## v1.11.2
 > 2017.01.17
 
