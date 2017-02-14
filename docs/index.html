@@ -2,47 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Snipaste - Snip, then paste!</title>
+  <title>Snipaste</title>
+  <meta name="keywords" content="snipaste,snip,screenshot,paste,pin,productivity">
   <meta name="description" content="Snip, then paste!">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <a href="#/">En</a>
+    <a href="#/zh-cn/">中文</a>
+  </nav>
   <div id="app"></div>
 </body>
 <script type="text/javascript">
   window.$docsify = {
-  search : [
-    '/',
-    '/faq',
-    '/getting-started',
-    '/advanced-tips',
-    '/advanced-configs',
-    '/advanced-configs',
-    '/troubleshooting',
-    '/built-in-hotkeys',
-    '/command-line-options',
-    '/changelog',
-    '/zh-cn/',
-    '/zh-cn/faq',
-    '/zh-cn/getting-started',
-    '/zh-cn/advanced-tips',
-    '/zh-cn/advanced-configs',
-    '/zh-cn/advanced-configs',
-    '/zh-cn/troubleshooting',
-    '/zh-cn/built-in-hotkeys',
-    '/zh-cn/command-line-options',
-    '/zh-cn/changelog'
-  ]
+    name: 'Snipaste',
+    repo: 'liulex/Snipaste-Feedback',
+    maxLevel: 3,
+    subMaxLevel: 2,
+    auto2top: true,
+    coverpage: true,
+    loadSidebar: true
 }
 </script>
-<script
-  src="//unpkg.com/docsify/lib/docsify.min.js"
-  data-repo="liulex/Snipaste-Feedback"
-  data-max-level="3"
-  data-load-sidebar
-  data-load-navbar
-  data-auto2top
-  data-name="Snipaste"></script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </html>

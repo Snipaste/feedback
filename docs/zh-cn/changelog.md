@@ -93,7 +93,7 @@
 
 ### 新增：
 * 全新的 [用户手册](https://docs.snipaste.com/zh-cn)
-  * 使用 <a href="https://docsify.js.org/#/zh-cn" target="_blank">docsify</a> 生成
+  * 使用 <a href="https://docsify.js.org/#/zh-cn/" target="_blank">docsify</a> 生成
 
 ### 修复：
 * 系统设置“拖动时显示窗口内容”未勾选时，无法移动贴图

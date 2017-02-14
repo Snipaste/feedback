@@ -1,81 +1,43 @@
 # Snipaste
 
-[![version](https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg)](/#)
-[![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64)
-[![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86)
-[![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
+![version](https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg)
 
+> Snipaste is much more than a snipping tool.
 
-> Snipaste may be good as a snipping tool, but it is even more professional in 'paste'!
+> It can boost your productivity if you get used to its 'paste'!
 
-> Hopefully it will boost your productivity when you get used to it.
+New user?
+- Follow the [hotkey list](/built-in-hotkeys) to get started!
 
-## [Getting Started](/getting-started)
+Have troubles?
+- Check [Troubleshooting](/troubleshooting) or [FAQ](/faq).
 
-Snipaste consists of three major functionalities: `Snip`, `Image Edit` and `Paste`.
-
-Find out what they are capable of.
-
-## [Advanced Tips](/advanced-tips)
-
-Useful and insteresting tips to make you love Snipaste a bit more.
-
-## [Command Line Options](/command-line-options)
-
-Execute a function of Snipaste using the command line. Let Snipaste work together with your other favorite tools.
-
-## [Advanced Configs](/advanced-configs)
-
-Yes, there are some hidden settings not exposed in the Preferences Dialog.
-
-## [Troubleshooting](/troubleshooting)
-
-Snipaste is not running as expected? You probably can find a solution here. If not, file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
-
-## [FAQ](/faq)
-
-Perhaps the answer you want is already here.
-
-## [Built-in Hotkeys](/built-in-hotkeys)
-
-The best way to master them is to follow the list and press them one by one.
-
-## [Changelog](/changelog)
-
-See how Snipaste is growing better because of you.
+Want to make more use of Snipaste?
+- Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 ## Feedback
 
-If you find a bug or have a feature request, please submit an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
+Find a bug or have a feature request? Please file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>!
 
 It would be great if you could read our documentation first or search in the issues before you post, to avoid duplicates.
 
-All requested features have been summarized [here](https://github.com/liulex/Snipaste-Feedback/issues/282). Welcome to vote for them.
-
-
-## Cross-Platform Support
-
-At the moment Snipaste is available on Windows 10 / 8 / 7 / Vista / XP.
-
-The macOS version and Linux version are under development. Please be patient.
-
+All requested features have been summarized [here](https://github.com/liulex/Snipaste-Feedback/issues/282). Welcome to vote for/against them.
 
 ## Contact
 
-[![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
-[![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
-[![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
+Telegram group: [English](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g) [Chinese](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
 
-[![](https://img.shields.io/badge/✉-snipaste.app@gmail.com-42b983.svg)](mailto:snipaste.app@gmail.com)
+Telegram channel: [English](https://telegram.me/snipaste_en) [Chinese](https://telegram.me/snipaste)
+
+Follow us: [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste) [![](https://img.shields.io/badge/Weibo-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
+
+Email: [snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
 
 ## Donate
 
-If you love Snipaste, you can support me by telling your friends how wonderful it is.
+If you love Snipaste, I hope you can introduce it to your familiy and friends.
 
-You can also cheer me up by making a donation.
-
-Thanks you for your support!
-
+You can also cheer me up by making a donation. Thanks for your support!
 
 [![paypal](https://img.shields.io/badge/donate-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
 [![bitcoin](https://img.shields.io/badge/donate-Bitcoin-f7931a.svg)](https://i.v2ex.co/UwhVMHD7.png)
