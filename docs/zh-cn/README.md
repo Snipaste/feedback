@@ -23,9 +23,9 @@
 
 ## 联系
 
-Telegram 群: [中文](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ) [英文](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+Telegram 群: [中](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ) [英](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
 
-Telegram channel: [中文](https://telegram.me/snipaste) [英文](https://telegram.me/snipaste_en) 
+Telegram 频道: [中](https://telegram.me/snipaste) [英](https://telegram.me/snipaste_en) 
 
 关注我们: [![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)  [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
@@ -33,7 +33,7 @@ Email: [snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
 
 ## 捐赠
 
-如果喜欢 Snipaste，希望你能向家人和朋友介绍它！
+:heart: 如果喜欢 Snipaste，希望你可以向家人和朋友介绍它！
 
 当然也可以通过捐赠来鼓励我继续改进它。谢谢你的支持！
 
