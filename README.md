@@ -1,10 +1,28 @@
 # [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v1.11.3-2017.01.27-80c342.svg)](https://github.com/liulex/Snipaste-Feedback#snipaste) [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
-[Documentation](https://docs.snipaste.com) | [用户手册](https://docs.snipaste.com/zh-cn)
 
-[Requested features | 已收集的建议](https://github.com/liulex/Snipaste-Feedback/issues/282)
+> Snipaste is not just a snipping tool.
 
-## :speech_balloon:
+> It can boost your productivity if you get used to its 'paste'!
+
+New user?
+- Follow this [hotkey list](https://github.com/liulex/Snipaste-Feedback/wiki/Built-in-Hotkeys) to get started!
+
+Have troubles?
+- Check [Troubleshooting](https://github.com/liulex/Snipaste-Feedback/wiki/troubleshooting) or [FAQ](https://github.com/liulex/Snipaste-Feedback/wiki/faq).
+
+Want to make more use of Snipaste?
+- Read the rest of our documentation when you have time. You won't be disappointed! :wink:
+
+## Feedback
+
+Find a bug or have a feature request? Please file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>!
+
+It would be great if you could read our documentation first or search in the issues before you post, to avoid duplicates.
+
+All requested features have been summarized [here](https://github.com/liulex/Snipaste-Feedback/issues/282). Welcome to vote for/against them.
+
+## Contact
 
 [![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
 [![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
