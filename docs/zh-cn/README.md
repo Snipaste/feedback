@@ -23,11 +23,13 @@
 
 ## 联系
 
-Telegram 群：[中](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ) [英](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://telegram.me/snipaste)
+[![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
 
-Telegram 频道：[中](https://telegram.me/snipaste) [英](https://telegram.me/snipaste_en) 
-
-关注我们：[![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)  [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
+[![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+[![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
+[![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
 Email：[snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
 

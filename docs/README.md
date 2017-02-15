@@ -2,12 +2,12 @@
 
 ![version](https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg)
 
-> Snipaste is much more than a snipping tool.
+> Snipaste is not just a snipping tool.
 
 > It can boost your productivity if you get used to its 'paste'!
 
 New user?
-- Follow the [hotkey list](/built-in-hotkeys) to get started!
+- Follow this [hotkey list](/built-in-hotkeys) to get started!
 
 Have troubles?
 - Check [Troubleshooting](/troubleshooting) or [FAQ](/faq).
@@ -25,11 +25,13 @@ All requested features have been summarized [here](https://github.com/liulex/Sni
 
 ## Contact
 
-Telegram group: [English](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g) [Chinese](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+[![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
+[![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
-Telegram channel: [English](https://telegram.me/snipaste_en) [Chinese](https://telegram.me/snipaste)
-
-Follow us: [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste) [![](https://img.shields.io/badge/Weibo-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
+[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://telegram.me/snipaste)
+[![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
 
 Email: [snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
 
