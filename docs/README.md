@@ -7,7 +7,7 @@
 > It can boost your productivity if you get used to its 'paste'!
 
 New user?
-- Follow this [hotkey list](/built-in-hotkeys) to get started!
+- By default, snip is <kbd>F1</kbd> and paste is <kbd>F3</kbd>. Then follow this [hotkey list](/built-in-hotkeys) to get started!
 
 Have troubles?
 - Check [Troubleshooting](/troubleshooting) or [FAQ](/faq).
