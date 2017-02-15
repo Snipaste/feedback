@@ -1,24 +1,5 @@
 # Built-in Hotkeys
 
-## Common
-
-| Key | Command |
-| --- | --- |
-| Alt | Show the magnifier if it is not visible |
-| Shift | Toggle the color formats if the magnifier is visible |
-| C | Copy the color value if the magnifier is visible |
-| W S A D | Move the cursor by 1 pixel |
-| ↑ ← ↓ → | Move the snipping area/image window by 1 pixel if not editing |
-| Space | Show/Hide the paint bar |
-| Ctrl + Z | Undo the last edit (can be redone later) |
-| Ctrl + Shift + Z | Remove all edits (cannot be undone) |
-| Ctrl + C | Copy the image |
-| Ctrl + Y | Restore the next edit |
-| Ctrl + S | Save the image as a file |
-| Ctrl + Shift + S | Save the image to the Quick Save folder |
-| Ctrl + P | Send the image to the printer |
-| Mouse right-click | Finish editing current shape when in edit mode |
-
 ## Snip Only
 
 | Key | Command |
@@ -50,3 +31,22 @@
 | Shift + Esc | Destroy the image window |
 | Ctrl + Shift + C | Copy the plain text (if this image is converted from text) |
 | Ctrl + Shift + P | Open the Preferences Dialog |
+
+## Common
+
+| Key | Command |
+| --- | --- |
+| Alt | Show the magnifier if it is not visible |
+| Shift | Toggle the color formats if the magnifier is visible |
+| C | Copy the color value if the magnifier is visible |
+| W S A D | Move the cursor by 1 pixel |
+| ↑ ← ↓ → | Move the snipping area/image window by 1 pixel if not editing |
+| Space | Show/Hide the paint bar |
+| Ctrl + Z | Undo the last edit (can be redone later) |
+| Ctrl + Shift + Z | Remove all edits (cannot be undone) |
+| Ctrl + C | Copy the image |
+| Ctrl + Y | Restore the next edit |
+| Ctrl + S | Save the image as a file |
+| Ctrl + Shift + S | Save the image to the Quick Save folder |
+| Ctrl + P | Send the image to the printer |
+| Mouse right-click | Finish editing current shape when in edit mode |
