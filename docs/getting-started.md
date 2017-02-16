@@ -115,7 +115,7 @@ Therefore, whether an image will come out, or what will appear when you paste, d
  * Customizable since v1.8.4
 
 #### Thumbnail mode
-* <kbd>Win</kbd> + <kbd>Left click</kbd> on the image window
+* <kbd>Shift</kbd> + <kbd>Double click</kbd> on the image window
  * Customizable since v1.8.4
 
 #### Hide an image window
