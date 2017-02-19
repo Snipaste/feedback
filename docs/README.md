@@ -1,6 +1,4 @@
-# Snipaste
-
-![version](https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg)
+<h1>Snipaste <img src="https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg" alt="version" style="vertical-align: top;"></a></h1>
 
 > Snipaste is not just a snipping tool.
 
@@ -19,7 +17,7 @@ Want to make more use of Snipaste?
 
 Find a bug or have a feature request? Please file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>!
 
-It would be great if you could read our documentation first or search in the issues before you post, to avoid duplicates.
+It would be great if you could read our documentation first or search in the issues before you post, o tavoid duplicates.
 
 All requested features have been summarized [here](https://github.com/liulex/Snipaste-Feedback/issues/282). Welcome to vote for/against them.
 
