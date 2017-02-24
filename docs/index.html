@@ -53,7 +53,7 @@
     },
  plugins: [
   function (hook, vm) {
-    w2d = {
+    var w2d = {
       '基础操作': '/zh-cn/getting-started',
       '内置快捷键': '/zh-cn/built-in-hotkeys',
       '常见问题': '/zh-cn/built-in-hotkeys',
@@ -64,12 +64,12 @@
       '下载': '/zh-cn/download',
       '更新日志': '/zh-cn/changelog'
     };
+    var wiki = "https://github.com/liulex/Snipaste-Feedback/wiki/";
 
     // replace wiki links to docs.snipaste.com
     hook.beforeEach(function(content) {
       if (content == null)
         return null
-      var wiki = "https://github.com/liulex/Snipaste-Feedback/wiki/";
       // en pages
       content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\-]+)", "g"), (a, m) => '](/' + m.toLowerCase())
       // zh pages
