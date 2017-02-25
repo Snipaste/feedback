@@ -1,4 +1,4 @@
-<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v1.11.3-2017.01.27-42b983.svg"/></h1>
+<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v1.12-Beta1-2017.02.25-42b983.svg"/></h1>
 
 > Snipaste 不只是截图，善用贴图功能将帮助你提升工作效率！
 
@@ -9,7 +9,7 @@
 - 看看 [故障排除](/zh-cn/troubleshooting) 或 [常见问题](/faq)，也许里面就有你要的答案。
 
 想更充分利用 Snipaste？
-- 有空时不妨阅读下其余的文档页面，不会让你失望的！:wink:
+- 有空不妨阅读下其余的文档页面，不会让你失望的！:wink:
 
 ## 问题反馈
 
