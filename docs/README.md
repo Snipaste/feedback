@@ -10,7 +10,7 @@ New user?
 Have troubles?
 - Check [Troubleshooting](/troubleshooting) or [FAQ](/faq).
 
-Want to make further use of Snipaste?
+Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 ## Feedback

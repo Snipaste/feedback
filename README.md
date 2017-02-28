@@ -11,7 +11,7 @@ New user?
 Have troubles?
 - Check [Troubleshooting](https://github.com/liulex/Snipaste-Feedback/wiki/troubleshooting) or [FAQ](https://github.com/liulex/Snipaste-Feedback/wiki/faq).
 
-Want to make further use of Snipaste?
+Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 ## Feedback
