@@ -1,6 +1,6 @@
 - 指南
   - [基础操作](/zh-cn/getting-started)
-  - [内置快捷键](/zh-cn/built-in-hotkeys)
+  - [内置快捷键](/zh-cn/key-bindings)
   - [常见问题](/zh-cn/faq)
   - [故障排除](/zh-cn/troubleshooting)
 - 进阶

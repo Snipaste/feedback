@@ -1,6 +1,6 @@
 - Guide
   - [Getting Started](/getting-started)
-  - [Built-in Hotkeys](/built-in-hotkeys)
+  - [Key Bindings](/key-bindings)
   - [FAQ](/faq)
   - [Troubleshooting](/troubleshooting)
 - Advanced
