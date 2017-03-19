@@ -6,7 +6,7 @@
 > It can boost your productivity if you get used to its 'paste'!
 
 New user?
-- By default, snip is <kbd>F1</kbd> and paste is <kbd>F3</kbd>. Then follow this [hotkey list](/key-bindings) to get started!
+- By default, snip is <kbd>F1</kbd> and paste is <kbd>F3</kbd>. Then follow the [key bindings](/key-bindings) to get started!
 
 Have troubles?
 - Check [Troubleshooting](https://github.com/liulex/Snipaste-Feedback/wiki/troubleshooting) or [FAQ](https://github.com/liulex/Snipaste-Feedback/wiki/faq).
