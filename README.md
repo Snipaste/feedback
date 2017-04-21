@@ -2,7 +2,7 @@
 
 
 > Snipaste is not just a snipping tool.
-
+>
 > It can boost your productivity if you get used to its 'paste'!
 
 New user?
