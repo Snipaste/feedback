@@ -6,7 +6,7 @@
 - 截图默认为 <kbd>F1</kbd>，贴图为 <kbd>F3</kbd>，然后请对照着 [快捷键列表](/zh-cn/key-bindings) 按一遍，体会它们的用法，就入门啦！
 
 遇到了麻烦？
-- 看看 [故障排除](/zh-cn/troubleshooting) 或 [常见问题](/faq)，也许里面就有你要的答案。
+- 看看 [故障排除](/zh-cn/troubleshooting) 或 [常见问题](/zh-cn/faq)，也许里面就有你要的答案。
 
 想更充分利用 Snipaste？
 - 有空不妨阅读下其余的文档页面，不会让你失望的！:wink:
