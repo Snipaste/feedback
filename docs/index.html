@@ -83,7 +83,7 @@
       if (content == null)
         return null
       // en pages
-      content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\-]+)", "g"), (a, m) => '](/' + m.toLowerCase())
+      content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), (a, m) => '](/' + m.toLowerCase())
       // zh pages
       for (var w in w2d) {
         content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
