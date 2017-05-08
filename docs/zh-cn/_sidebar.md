@@ -10,4 +10,5 @@
 - 更多
   - [官网](https://zh.snipaste.com)
   - [下载](/zh-cn/download)
+  - [帮助翻译](/zh-cn/translation)
   - [更新日志](/zh-cn/changelog)

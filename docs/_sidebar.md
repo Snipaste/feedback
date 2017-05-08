@@ -10,4 +10,5 @@
 - More
   - [Official Site](https://snipaste.com)
   - [Download](/download)
+  - [Translation](/translation)
   - [Changelog](/changelog)
