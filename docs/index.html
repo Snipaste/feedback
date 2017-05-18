@@ -43,6 +43,7 @@
         '/': 'No Results'
       }
     },
+    formatUpdated: '{YYYY}.{MM}.{DD} {HH}:{mm}',
     alias: {
     '/getting-started': 'https://raw.githubusercontent.com/wiki/liulex/Snipaste-Feedback/Getting-Started.md',
     '/key-bindings': 'https://raw.githubusercontent.com/wiki/liulex/Snipaste-Feedback/Key-Bindings.md',
@@ -90,7 +91,7 @@
       for (var w in w2d) {
         content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
       }
-      return content
+      return content + '> Last modified on {docsify-updated}'
     })
   }
   ]
