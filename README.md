@@ -22,9 +22,9 @@ It would be great if you could read our [documentation](https://docs.snipaste.co
 
 All requested features have been summarized [here](https://github.com/Snipaste/feedback/issues/282). Welcome to vote for/against them.
 
-## Contribution
+## Contribute
 
-You can help [translate](https://github.com/Snipaste/translations) Snipaste,  improve the [wiki](https://github.com/Snipaste/feedback/wiki) or discuss with us in the [issues](https://github.com/Snipaste/feedback/issues).
+You can help [translate](https://github.com/Snipaste/translations) Snipaste, improve the [wiki](https://github.com/Snipaste/feedback/wiki) or discuss with us in the [issues](https://github.com/Snipaste/feedback/issues).
 
 ## Contact
 
