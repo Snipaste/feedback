@@ -91,7 +91,7 @@
       for (var w in w2d) {
         content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
       }
-      return content + '\n> Last modified on {docsify-updated}'
+      return content
     })
   }
   ]
