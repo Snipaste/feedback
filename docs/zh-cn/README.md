@@ -13,11 +13,11 @@
 
 ## 问题反馈
 
-如发现了缺陷或是希望增加什么功能，请先检查一下文档里是否已经提过，或是搜索一下已有的 <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>.
+如发现了缺陷或是希望增加什么功能，请先检查一下文档里是否已经提过，或是搜索一下已有的 <a href="https://github.com/Snipaste/feedback/issues" targe="_blank">issue</a>.
 
-如果仍未解决，请提交一个 <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>，便于问题的跟踪及解决。
+如果仍未解决，请提交一个 <a href="https://github.com/Snipaste/feedback/issues" targe="_blank">issue</a>，便于问题的跟踪及解决。
 
-另外，所有的新功能请求已在 [这里](https://github.com/liulex/Snipaste-Feedback/issues/282) 列出，欢迎给它们投票！
+另外，所有的新功能请求已在 [这里](https://github.com/Snipaste/feedback/issues/282) 列出，欢迎给它们投票！
 
 ## 联系
 

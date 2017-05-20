@@ -15,11 +15,11 @@ Want to get the most out of Snipaste?
 
 ## Feedback
 
-Find a bug or have a feature request? Please file an <a href="https://github.com/liulex/Snipaste-Feedback/issues" targe="_blank">issue</a>!
+Find a bug or have a feature request? Please file an <a href="https://github.com/Snipaste/feedback/issues" targe="_blank">issue</a>!
 
 It would be great if you could read our documentation first or search in the issues before you post, o tavoid duplicates.
 
-All requested features have been summarized [here](https://github.com/liulex/Snipaste-Feedback/issues/282). Welcome to vote for/against them.
+All requested features have been summarized [here](https://github.com/Snipaste/feedback/issues/282). Welcome to vote for/against them.
 
 ## Contact
 
