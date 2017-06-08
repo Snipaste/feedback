@@ -1,4 +1,4 @@
-# [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v1.13.4-2017.06.06-80c342.svg)](https://github.com/Snipaste/feedback#snipaste) [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
+# [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v1.13.5-2017.06.08-80c342.svg)](https://github.com/Snipaste/feedback#snipaste) [![x64](https://img.shields.io/badge/download-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/download-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/download-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
 > Snipaste is not just a snipping tool.
 >
