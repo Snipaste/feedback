@@ -67,35 +67,35 @@
     '/zh-cn/changelog': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/更新日志.md',
     '/zh-cn/translation': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/帮助翻译.md'
     },
- plugins: [
-  function (hook, vm) {
-    var w2d = {
-      '基础操作': '/zh-cn/getting-started',
-      '内置快捷键': '/zh-cn/key-bindings',
-      '常见问题': '/zh-cn/faq',
-      '故障排除': '/zh-cn/troubleshooting',
-      '高级技巧': '/zh-cn/advanced-tips',
-      '高级设置': '/zh-cn/advanced-configs',
-      '命令行选项': '/zh-cn/command-line-options',
-      '下载': '/zh-cn/download',
-      '更新日志': '/zh-cn/changelog'
-    };
-    var wiki = "https://github.com/Snipaste/feedback/wiki/";
+    plugins: [
+      function (hook, vm) {
+        var w2d = {
+          '基础操作': '/zh-cn/getting-started',
+          '内置快捷键': '/zh-cn/key-bindings',
+          '常见问题': '/zh-cn/faq',
+          '故障排除': '/zh-cn/troubleshooting',
+          '高级技巧': '/zh-cn/advanced-tips',
+          '高级设置': '/zh-cn/advanced-configs',
+          '命令行选项': '/zh-cn/command-line-options',
+          '下载': '/zh-cn/download',
+          '更新日志': '/zh-cn/changelog'
+        };
+        var wiki = "https://github.com/Snipaste/feedback/wiki/";
 
-    // replace wiki links to docs.snipaste.com
-    hook.beforeEach(function(content) {
-      if (content == null)
-        return null
-      // en pages
-      content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), function (a, m) { return '](/' + m.toLowerCase() })
-      // zh pages
-      for (var w in w2d) {
-        content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
+        // replace wiki links to docs.snipaste.com
+        hook.beforeEach(function(content) {
+          if (content == null)
+            return null
+          // en pages
+          content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), function (a, m) { return '](/' + m.toLowerCase() })
+          // zh pages
+          for (var w in w2d) {
+            content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
+          }
+          return content
+        })
       }
-      return content
-    })
-  }
-  ]
+    ]
   }
 
   if (typeof navigator.serviceWorker !== 'undefined') {
