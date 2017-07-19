@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Snipaste</title>
+  <meta name="keywords" content="snipaste, snip, screenshot, paste, pin, clipboard, productivity, help, documentation, docs">
+  <meta name="description" content="Snip & Paste">
+  <meta name="google-site-verification" content="-R8Ja0TPv2uw1XiaB1IBthIel4AeCpYvgpeHg4V85Lk" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <style type="text/css">
+    .markdown-section code  { white-space: pre-line; }
+  </style>
+</head>
+<body>
+  <nav data-cloak>
+    <a href="/">En</a>
+    <a href="/zh-cn/">中文</a>
+  </nav>
+  <div id="app"></div>
+</body>
+<script type="text/javascript">
+  window.$docsify = {
+    repo: 'Snipaste/feedback',
+    name: '<img src="/logo.svg" height="32px">',
+    nameLink: {
+    '/zh-cn/': 'https://docs.snipaste.com/#/zh-cn/',
+    '/': '/'
+    },
+    maxLevel: 3,
+    subMaxLevel: 2,
+    auto2top: true,
+    loadSidebar: true,
+    autoHeader: true,
+    routerMode: 'history', // default: 'hash'
+    search: {
+      maxAge: 43200000,
+      placeholder: {
+        '/zh-cn/': '搜索',
+        '/': 'Search'
+      },
+      noData: {
+        '/zh-cn/': '找不到结果',
+        '/': 'No Results'
+      }
+    },
+    formatUpdated: '{YYYY}.{MM}.{DD} {HH}:{mm}',
+    ga: 'UA-89754315-2',
+    alias: {
+    '/getting-started': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Getting-Started.md',
+    '/key-bindings': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Key-Bindings.md',
+    '/faq': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/FAQ.md',
+    '/troubleshooting': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Troubleshooting.md',
+    '/advanced-tips': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Advanced-Tips.md',
+    '/advanced-configs': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Advanced-Configs.md',
+    '/command-line-options': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Command-Line-Options.md',
+    '/download': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Download.md',
+    '/changelog': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Changelog.md',
+    '/translation': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/Translation.md',
+    '/zh-cn/getting-started': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/基础操作.md',
+    '/zh-cn/key-bindings': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/内置快捷键.md',
+    '/zh-cn/faq': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/常见问题.md',
+    '/zh-cn/troubleshooting': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/故障排除.md',
+    '/zh-cn/advanced-tips': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/高级技巧.md',
+    '/zh-cn/advanced-configs': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/高级设置.md',
+    '/zh-cn/command-line-options': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/命令行选项.md',
+    '/zh-cn/download': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/下载.md',
+    '/zh-cn/changelog': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/更新日志.md',
+    '/zh-cn/translation': 'https://raw.githubusercontent.com/wiki/Snipaste/feedback/帮助翻译.md'
+    },
+    plugins: [
+      function (hook, vm) {
+        var w2d = {
+          '基础操作': '/zh-cn/getting-started',
+          '内置快捷键': '/zh-cn/key-bindings',
+          '常见问题': '/zh-cn/faq',
+          '故障排除': '/zh-cn/troubleshooting',
+          '高级技巧': '/zh-cn/advanced-tips',
+          '高级设置': '/zh-cn/advanced-configs',
+          '命令行选项': '/zh-cn/command-line-options',
+          '下载': '/zh-cn/download',
+          '更新日志': '/zh-cn/changelog'
+        };
+        var wiki = "https://github.com/Snipaste/feedback/wiki/";
+        // replace wiki links to docs.snipaste.com
+        hook.beforeEach(function(content) {
+          if (content == null)
+            return null
+          // en pages
+          content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), function (a, m) { return '](/' + m.toLowerCase() })
+          // zh pages
+          for (var w in w2d) {
+            content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
+          }
+          return content
+        })
+      }
+    ]
+  }
+//  if (typeof navigator.serviceWorker !== 'undefined') {
+//    navigator.serviceWorker.register('sw.js')
+//  }
+  
+  if (/\/#\//.test(location.href)) {
+    location.href = location.href.replace('/#/', '/')
+  }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+</html>
