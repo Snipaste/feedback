@@ -39,5 +39,4 @@ Email：[snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
 
 [![alipay](https://img.shields.io/badge/捐赠-支付宝-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
 [![wechat](https://img.shields.io/badge/捐赠-微信-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)
-[![bitcoin](https://img.shields.io/badge/捐赠-比特币-f7931a.svg)](https://i.v2ex.co/UwhVMHD7.png)
 [![paypal](https://img.shields.io/badge/捐赠-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
