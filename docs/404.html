@@ -97,18 +97,16 @@
       }
     ]
   }
-//  if (typeof navigator.serviceWorker !== 'undefined') {
-//    navigator.serviceWorker.register('sw.js')
-//  }
-  
+
+  // if (typeof navigator.serviceWorker !== 'undefined') {
+  //   navigator.serviceWorker.register('sw.js')
+  // }
+
   // /#/ -> /
-  if (/\/#\//.test(location.href)) {
-    location.href = location.href.replace('/#/', '/')
-  }
   // #abc -> ?id=abc
-  if (/#[^\/]+/.test(location.href)) {
-    location.href = location.href.replace(/#([^\/]+)/, '?id=$1')
-  }
+  // %23abc -> ?id=abc
+  location.href = location.href.replace('/#/', '/').replace(/(?:#|%23)([^\/]+)/, '?id=$1')
+
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
