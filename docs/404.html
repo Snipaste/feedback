@@ -104,7 +104,9 @@
 
   // #abc -> ?id=abc
   // %23abc -> ?id=abc
-  location.href = location.href.replace(/(?:#|%23)([^\/]+)/, '?id=$1')
+  if (/(?:#|%23)([^\/]+)/.test(location.href)) {
+    location.href = location.href.replace(/(?:#|%23)([^\/]+)/, '?id=$1')
+  }
 
   // /#/ -> /
   if (/\/#\//.test(location.href)) {
