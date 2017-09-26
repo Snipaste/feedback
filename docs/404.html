@@ -107,7 +107,7 @@
   }
   // #abc -> ?id=abc
   if (/#[^\/]+/.test(location.href)) {
-    location.href = location.href.replace('#([^\/]+)', '?id=$1')
+    location.href = location.href.replace(/#([^\/]+)/, '?id=$1')
   }
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
