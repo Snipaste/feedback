@@ -109,7 +109,7 @@
   }
   // #abc -> ?id=abc
   if (/#[^\/]+/.test(location.href)) {
-    location.href = location.href.replace('#([^\/]+)', '?id=$1')
+    location.href = location.href.replace(/#([^\/]+)/, '?id=$1')
   }
 
 </script>
