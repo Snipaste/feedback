@@ -22,6 +22,7 @@
 ## 联系
 
 [![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-Mac 用户群-40ace3.svg)](https://t.me/joinchat/BGyWwFNlR8y15ZonCxH_yg)
 [![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://telegram.me/snipaste)
 [![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
 
