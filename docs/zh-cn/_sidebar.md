@@ -7,6 +7,7 @@
   - [高级技巧](/zh-cn/advanced-tips)
   - [高级设置](/zh-cn/advanced-configs)
   - [命令行选项](/zh-cn/command-line-options)
+- [Mac 公测版](/zh-cn/mac-beta)
 - 更多
   - [官网](https://zh.snipaste.com)
   - [下载](/zh-cn/download)
