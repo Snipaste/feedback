@@ -41,6 +41,5 @@ You can help [translate](https://github.com/Snipaste/translations) Snipaste, imp
 
 ## :heart:
 [![paypal](https://img.shields.io/badge/donate-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
-[![bitcoin](https://img.shields.io/badge/donate-Bitcoin-f7931a.svg)](https://i.v2ex.co/UwhVMHD7.png)
 [![alipay](https://img.shields.io/badge/捐赠-支付宝-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
 [![wechat](https://img.shields.io/badge/捐赠-微信-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)
