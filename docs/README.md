@@ -33,13 +33,3 @@ All requested features have been summarized [here](https://github.com/Snipaste/f
 [![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
 
 Email: [snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
-
-## Donate
-
-If you love Snipaste, please share it with your family and friends :heart:
-
-You can also cheer me up by making a donation. Thanks for your support!
-
-[![paypal](https://img.shields.io/badge/donate-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
-[![alipay](https://img.shields.io/badge/donate-Alipay-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
-[![wechat](https://img.shields.io/badge/donate-Wechat-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)

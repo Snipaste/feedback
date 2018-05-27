@@ -31,13 +31,3 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
 Email：[snipaste.app@gmail.com](mailto:snipaste.app@gmail.com)
-
-## 捐赠
-
-如果喜欢 Snipaste，希望你能向家人和朋友介绍它 :heart:
-
-你也可以通过捐赠来鼓励我继续改进它，谢谢你的支持！
-
-[![alipay](https://img.shields.io/badge/捐赠-支付宝-00aaee.svg)](https://i.v2ex.co/F6m7g9Ha.png)
-[![wechat](https://img.shields.io/badge/捐赠-微信-51c332.svg)](https://i.v2ex.co/87qHMt5q.png)
-[![paypal](https://img.shields.io/badge/捐赠-Paypal-fd8200.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URBJ7KXA99BA2)
