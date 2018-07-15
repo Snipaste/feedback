@@ -8,6 +8,7 @@
   - [Advanced Configs](/advanced-configs)
   - [Command Line Options](/command-line-options)
 - [Beta for Mac](/mac-beta)
+- [PRO](/pro)
 - More
   - [Official Site](https://snipaste.com)
   - [Download](/download)
