@@ -7,8 +7,8 @@
   - [Advanced Tips](/advanced-tips)
   - [Advanced Configs](/advanced-configs)
   - [Command Line Options](/command-line-options)
+- [PRO <sup style="color:red">NEW!<sup>](/pro)
 - [Beta for Mac](/mac-beta)
-- [PRO](/pro)
 - More
   - [Official Site](https://snipaste.com)
   - [Download](/download)
