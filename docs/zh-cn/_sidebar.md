@@ -7,7 +7,7 @@
   - [高级技巧](/zh-cn/advanced-tips)
   - [高级设置](/zh-cn/advanced-configs)
   - [命令行选项](/zh-cn/command-line-options)
-- [专业版 <sup style="color:red">新!<sup>](/zh-cn/pro)
+- <a style="display:inline;border-right-style:none;" href="/zh-cn/pro">专业版</a> <sup style="color:red;">新!</sup>
 - [Mac 公测版](/zh-cn/mac-beta)
 - 更多
   - [官网](https://zh.snipaste.com)
