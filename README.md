@@ -14,7 +14,7 @@ Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 Beta for Mac! [![mac-beta-release-notes](https://img.shields.io/badge/Release-Notes-80c342.svg)](https://github.com/Snipaste/feedback/wiki/Beta-for-Mac)
-- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-1.6.2--Beta-d8d8d8.svg" /></a>
+- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-1.16.2--Beta-d8d8d8.svg" /></a>
 - Or install via brew cast: `brew cask install snipaste`
 
 ## Feedback
