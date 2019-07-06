@@ -1,6 +1,6 @@
 ---
-title: Bug Report
-about: 请详细描述你所遇到的缺陷 / Create a report to help us improve
+name: Bug Report
+about: Create a report to help us improve / 请详细描述你所遇到的缺陷
 ---
 
 <!--
