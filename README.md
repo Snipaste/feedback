@@ -1,4 +1,4 @@
-# [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v1.16.2-2018.01.22-80c342.svg)](https://github.com/Snipaste/feedback#snipaste) <a href="https://www.microsoft.com/store/apps/9p1wxpkb68kx?ocid=badge"><img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" height="20px" /></a> [![x64](https://img.shields.io/badge/Windows-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/Windows-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/Windows-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
+# [Snipaste](https://snipaste.com) [![version](https://img.shields.io/badge/v2.2.1-2019.07.04-80c342.svg)](https://github.com/Snipaste/feedback#snipaste) <a href="https://www.microsoft.com/store/apps/9p1wxpkb68kx?ocid=badge"><img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" height="20px" /></a> [![x64](https://img.shields.io/badge/Windows-64_bit-0078d7.svg)](https://dl.snipaste.com/win-x64) [![x86](https://img.shields.io/badge/Windows-32_bit-0078d7.svg)](https://dl.snipaste.com/win-x86) [![xp](https://img.shields.io/badge/Windows-XP-0078d7.svg)](https://dl.snipaste.com/win-xp)
 
 > Snipaste is not just a snipping tool.
 >
@@ -14,7 +14,7 @@ Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 Beta for Mac! [![mac-beta-release-notes](https://img.shields.io/badge/Release-Notes-80c342.svg)](https://github.com/Snipaste/feedback/wiki/Beta-for-Mac)
-- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-1.16.2--Beta-d8d8d8.svg" /></a>
+- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-2.2.0--Beta-d8d8d8.svg" /></a>
 - Or install via brew cast: `brew cask install snipaste`
 
 ## Feedback
