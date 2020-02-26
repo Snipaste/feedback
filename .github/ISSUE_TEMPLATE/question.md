@@ -1,3 +1,4 @@
 ---
 name: Question
+labels: question
 ---
