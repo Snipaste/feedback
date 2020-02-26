@@ -1,7 +1,6 @@
 ---
 name: Feature request
 about: Suggest an idea for this project / 请描述你对于新功能的想法
-labels: feature
 ---
 
 <!--
