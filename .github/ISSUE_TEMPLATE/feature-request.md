@@ -1,14 +1,10 @@
 ---
 name: Feature request
-about: Suggest an idea for this project / 请描述你对于新功能的想法
+about: Suggest an idea for this project
 ---
 
 <!--
 Feature request?
 * Besides describing what you want, it's more important to tell me what it does and why you need it
 * To avoid duplicates, please use keywords to search in the existing issues before you post
-
-请求新功能？
-* 除了告诉我你想要什么，请再描述一下它具体是怎样的，以及你为什么需要它
-* 为避免重复，发布之前请先用关键词搜索一下以避免重复
 -->
