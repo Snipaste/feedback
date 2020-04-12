@@ -14,7 +14,7 @@ Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
 Beta for Mac! [![mac-beta-release-notes](https://img.shields.io/badge/Release-Notes-80c342.svg)](https://github.com/Snipaste/feedback/wiki/Beta-for-Mac)
-- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-2.3--Beta-d8d8d8.svg" /></a>
+- Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://img.shields.io/badge/Mac OS X-2.3.3--Beta-d8d8d8.svg" /></a>
 - Or install via brew cast: `brew cask install snipaste`
 
 ## Feedback
@@ -31,10 +31,10 @@ You can help [translate](https://github.com/Snipaste/translations) Snipaste, imp
 
 ## Contact
 
-[![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://telegram.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
-[![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://telegram.me/snipaste_en)
+[![](https://img.shields.io/badge/Telegram-group-40ace3.svg)](https://t.me/joinchat/BGyWwEDqrqh-U2Yozz39QQ)
+[![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://t.me/snipaste_en)
 [![](https://img.shields.io/badge/Twitter-@Snipaste-1da1f2.svg)](https://twitter.com/Snipaste)
 
-[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://telegram.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
-[![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://telegram.me/snipaste)
+[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://t.me/snipaste)
 [![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
