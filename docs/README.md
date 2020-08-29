@@ -1,4 +1,4 @@
-<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v2.5-2020.08.12-42b983.svg"/></h1>
+<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v2.5.1-2020.08.26-42b983.svg"/></h1>
 
 > Snipaste is not just a snipping tool.
 >
