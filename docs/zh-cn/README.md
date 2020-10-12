@@ -1,4 +1,4 @@
-<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v2.5.1-2020.08.26-42b983.svg"/></h1>
+<h1>Snipaste<img height="18px" style="margin-left: 4px;" src="https://badgen.net/https/snipaste.com/win_store_version"/></h1>
 
 > Snipaste 不只是截图，善用贴图功能将帮助你提升工作效率！
 
