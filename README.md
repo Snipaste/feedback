@@ -15,7 +15,7 @@ Want to get the most out of Snipaste?
 
 Beta for Mac!
 - Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://badgen.net/https/snipaste.com/mac_version?icon=apple" /></a>
-- Or install via brew cast: `brew cask install snipaste`
+- Or install via brew cast: `brew install --cask snipaste`
 
 ## Feedback
 
