@@ -27,7 +27,7 @@ All requested features have been summarized [here](https://github.com/Snipaste/f
 [![](https://img.shields.io/badge/Telegram-channel-40ace3.svg)](https://t.me/snipaste_en)
 [![Twitter Follow](https://img.shields.io/twitter/follow/snipaste.svg?style=social&label=Follow)](https://twitter.com/Snipaste)
 
-[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+[![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://t.me/+JA6olNmS6302ODE1)
 [![](https://img.shields.io/badge/Telegram-Mac%20用户群-40ace3.svg)](https://t.me/joinchat/BGyWwFNlR8y15ZonCxH_yg)
 [![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://t.me/snipaste)
 [![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
