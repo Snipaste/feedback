@@ -13,7 +13,7 @@ body:
       description: Describe your problems in detail.
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: platform
     attributes:
       label: Platform

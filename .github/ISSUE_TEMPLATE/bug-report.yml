@@ -21,7 +21,7 @@ body:
       placeholder: (Required)
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: platform
     attributes:
       label: Platform

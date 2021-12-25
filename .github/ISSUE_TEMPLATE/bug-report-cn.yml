@@ -21,7 +21,7 @@ body:
       placeholder: 请描述一下重现的步骤，越详细越好
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: platform
     attributes:
       label: 运行平台

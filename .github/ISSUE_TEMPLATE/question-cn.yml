@@ -13,7 +13,7 @@ body:
       description: 请详细描述你遇到的问题。
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: platform
     attributes:
       label: 运行平台
