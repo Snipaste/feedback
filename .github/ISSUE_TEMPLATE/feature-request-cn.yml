@@ -1,0 +1,12 @@
+name: 请求新功能
+description: 请描述你对于新功能的想法
+title: ""
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: 功能描述
+      description: 除了告诉我你想要什么，请再描述一下它具体是怎样的，以及你为什么需要它。
+      placeholder: 为避免重复，请先用关键词在 Issues 中搜索一下以避免重复
+    validations:
+      required: true

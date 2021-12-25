@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest a new feature for Snipaste
+title: ""
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Besides describing what you want, it's more important to tell me what it does and why you need it.
+      placeholder: To avoid duplicates, please use keywords to search in the existing issues before you post.
+    validations:
+      required: true

@@ -1,0 +1,42 @@
+name: 发现缺陷
+description: 请详细描述你所遇到的缺陷
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        为了更高效地解决问题，请您填写以下表单。
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式
+      description: 您的邮箱。如需更多的信息，我们可能会主动联系您。
+      placeholder: (非必填)
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 发生了什么？
+      description: 请详细描述你所遇到的缺陷。
+      placeholder: 请描述一下重现的步骤，越详细越好
+    validations:
+      required: true
+- type: dropdown
+    id: platform
+    attributes:
+      label: 运行平台
+      multiple: true
+      options:
+        - 微软商店
+        - Windows 桌面
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本号
+      description: Snipaste 的具体版本
+    validations:
+      required: true

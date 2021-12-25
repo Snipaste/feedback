@@ -1,0 +1,34 @@
+name: Question
+description: Describle problems when using Snipaste
+title: ""
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please kindly search in the [documentation](https://docs.snipaste.com/) first if you encounter any problems.
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Problem Description
+      description: Describe your problems in detail.
+    validations:
+      required: true
+- type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - Microsoft Store
+        - Windows Desktop
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version of Snipaste are you using?
+    validations:
+      required: true

@@ -1,0 +1,34 @@
+name: 使用问题
+description: 请详细描述你的疑问
+title: ""
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如有使用上的疑问，请您先查阅[文档](https://docs.snipaste.com/zh-cn/)。如查阅文档后仍有疑问，欢迎提出~
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: 问题描述
+      description: 请详细描述你遇到的问题。
+    validations:
+      required: true
+- type: dropdown
+    id: platform
+    attributes:
+      label: 运行平台
+      multiple: true
+      options:
+        - 微软商店
+        - Windows 桌面
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本号
+      description: Snipaste 的具体版本
+    validations:
+      required: true

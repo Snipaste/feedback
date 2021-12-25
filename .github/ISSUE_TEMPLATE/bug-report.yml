@@ -1,0 +1,42 @@
+name: Bug report
+description: File a bug report
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: (Optional)
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Please describe the steps to reproduce as detailed as possible.
+      placeholder: (Required)
+    validations:
+      required: true
+- type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - Microsoft Store
+        - Windows Desktop
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version of Snipaste are you using?
+    validations:
+      required: true
