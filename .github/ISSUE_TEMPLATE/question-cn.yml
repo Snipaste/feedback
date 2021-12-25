@@ -1,6 +1,5 @@
 name: 使用问题
 description: 请详细描述你的疑问
-title: ""
 labels: ["question"]
 body:
   - type: markdown

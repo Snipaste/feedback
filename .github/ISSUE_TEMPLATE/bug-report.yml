@@ -1,6 +1,5 @@
 name: Bug report
 description: File a bug report
-title: ""
 body:
   - type: markdown
     attributes:

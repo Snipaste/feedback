@@ -1,6 +1,5 @@
 name: 请求新功能
 description: 请描述你对于新功能的想法
-title: ""
 body:
   - type: textarea
     id: feature-description

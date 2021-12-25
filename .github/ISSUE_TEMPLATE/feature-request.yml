@@ -1,6 +1,5 @@
 name: Feature request
-description: Suggest a new feature for Snipaste
-title: ""
+description: Suggest a new feature
 body:
   - type: textarea
     id: feature-description

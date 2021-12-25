@@ -1,6 +1,5 @@
 name: 发现缺陷
 description: 请详细描述你所遇到的缺陷
-title: ""
 body:
   - type: markdown
     attributes:

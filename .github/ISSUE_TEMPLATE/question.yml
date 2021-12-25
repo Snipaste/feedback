@@ -1,6 +1,5 @@
 name: Question
 description: Describle problems when using Snipaste
-title: ""
 labels: ["question"]
 body:
   - type: markdown
