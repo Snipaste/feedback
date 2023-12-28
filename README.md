@@ -17,6 +17,9 @@ Beta for Mac!
 - Download: <a href="https://dl.snipaste.com/mac-beta"><img src="https://badgen.net/https/snipaste.com/mac_version?icon=apple" /></a>
 - Or install via brew cast: `brew install --cask snipaste`
 
+Beta for Linux!
+- Download: <a href="https://dl.snipaste.com/linux-beta"><img src="https://badgen.net/https/snipaste.com/linux_version?icon=gnome" /></a>
+
 ## Feedback
 
 Find a bug or have a feature request? Please file an <a href="https://github.com/Snipaste/feedback/issues" targe="_blank">issue</a>!
