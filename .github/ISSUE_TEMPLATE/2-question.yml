@@ -22,6 +22,7 @@ body:
         - Microsoft Store
         - Windows Desktop
         - macOS
+        - Linux
     validations:
       required: true
   - type: input

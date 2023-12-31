@@ -30,6 +30,7 @@ body:
         - 微软商店
         - Windows 桌面
         - macOS
+        - Linux
     validations:
       required: true
   - type: input
