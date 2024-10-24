@@ -105,14 +105,13 @@
         // replace wiki links to docs.snipaste.com
         hook.beforeEach(function(content) {
           if (content == null)
-            return null
-          // en pages
-          content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), function (a, m) { return '](/' + m.toLowerCase() })
-          // zh pages
+            return null;
           for (var w in w2d) {
-            content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w])
+            content = content.replace(new RegExp("\\]\\(" + wiki + w, "g"), '](' + w2d[w]).replace(new RegExp("\\]\\(" + wiki + encodeURI(w), "g"), '](' + w2d[w]);
           }
-          return content
+          // general en pages
+          content = content.replace(new RegExp("\\]\\(" + wiki + "([a-zA-Z\\-]+)", "g"), function (a, m) { return '](/' + m.toLowerCase() });
+          return content;
         })
       }
     ]
