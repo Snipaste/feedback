@@ -13,11 +13,11 @@ Have troubles?
 Want to get the most out of Snipaste?
 - Read the rest of our documentation when you have time. You won't be disappointed! :wink:
 
-Beta for Mac!
+Mac:
 - Download: <a href="https://dl.snipaste.com/mac"><img src="https://badgen.net/https/snipaste.com/mac_version?icon=apple" /></a>
 - Or install via **brew**: `brew install snipaste --cask`
 
-Beta for Linux!
+Linux:
 - Download: <a href="https://dl.snipaste.com/linux"><img src="https://badgen.net/https/snipaste.com/linux_version?icon=gnome" /></a>
 
 ## Feedback
